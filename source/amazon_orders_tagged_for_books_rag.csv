@@ -1,0 +1,1225 @@
+﻿book_id,title,source_type,item_kind,genre_original,primary_domain,tags,rag_relevance,language_hint,suggested_search_mode,paid_price,ordered_at,embedding_text
+bk_48c28da70e,アプローチから企画提案・入札まで 民間企業が自治体から仕事を受注する方法,book,book_or_ebook,ビジネス書,その他,紙/通常本,low,ja,structured_search,2530,2025-11-06T03:02:45.579Z,"title: アプローチから企画提案・入札まで 民間企業が自治体から仕事を受注する方法
+genre: ビジネス書
+primary_domain: その他
+tags: 紙/通常本"
+bk_a749074510,現代数理統計学の基礎（共立講座 数学の魅力 11）,book,book_or_ebook,"数学, 経済学, 学術書",統計・データ分析,紙/通常本;統計;データ分析,low,ja,rag_or_structured,3520,2025-11-10T17:14:12.169Z,"title: 現代数理統計学の基礎（共立講座 数学の魅力 11）
+genre: 数学, 経済学, 学術書
+primary_domain: 統計・データ分析
+tags: 紙/通常本;統計;データ分析"
+bk_26a18d6544,経済分析のための統計的方法,book,book_or_ebook,"経済学, 統計学, 学術書",統計・データ分析,紙/通常本;統計;データ分析,low,ja,rag_or_structured,3960,2021-04-07T16:36:38Z,"title: 経済分析のための統計的方法
+genre: 経済学, 統計学, 学術書
+primary_domain: 統計・データ分析
+tags: 紙/通常本;統計;データ分析"
+bk_d119c70e1e,新・明解C言語で学ぶアルゴリズムとデータ構造 (明解シリーズ),book,book_or_ebook,IT,IT・プログラミング,紙/通常本;IT,low,ja,rag_or_structured,744,2025-10-30T07:33:59.834Z,"title: 新・明解C言語で学ぶアルゴリズムとデータ構造 (明解シリーズ)
+genre: IT
+primary_domain: IT・プログラミング
+tags: 紙/通常本;IT"
+bk_b2b2380861,入門 ベイズ統計学 (ファイナンス・ライブラリー 10),book,book_or_ebook,"統計学, 学術書",統計・データ分析,紙/通常本;統計;データ分析,low,ja,rag_or_structured,1796,2025-02-01T03:41:35.543Z,"title: 入門 ベイズ統計学 (ファイナンス・ライブラリー 10)
+genre: 統計学, 学術書
+primary_domain: 統計・データ分析
+tags: 紙/通常本;統計;データ分析"
+bk_b086931f8b,独習Git,book,book_or_ebook,IT,IT・プログラミング,紙/通常本;IT,low,ja,rag_or_structured,1419,2026-01-27T10:04:09.733Z,"title: 独習Git
+genre: IT
+primary_domain: IT・プログラミング
+tags: 紙/通常本;IT"
+bk_fd7b5e92d6,マクロ経済学 新版 (New Liberal Arts Selection),book,book_or_ebook,"学術書, 経済学",経済・金融,洋書;紙/通常本;経済,low,en_or_mixed,structured_search,1897,2024-12-18T06:24:10.510Z,"title: マクロ経済学 新版 (New Liberal Arts Selection)
+genre: 学術書, 経済学
+primary_domain: 経済・金融
+tags: 洋書;紙/通常本;経済"
+bk_9520bfe5b9,解析演習 (基礎数学 7),book,book_or_ebook,"数学, 学術書",数学・数理,紙/通常本;数学,low,ja,structured_search,1663,2025-02-01T08:03:12.950Z,"title: 解析演習 (基礎数学 7)
+genre: 数学, 学術書
+primary_domain: 数学・数理
+tags: 紙/通常本;数学"
+bk_c397d91151,標準 ベイズ統計学,book,book_or_ebook,"学術書, 経済学",統計・データ分析,紙/通常本;統計;データ分析,low,ja,rag_or_structured,4730,2025-05-13T11:10:10.423Z,"title: 標準 ベイズ統計学
+genre: 学術書, 経済学
+primary_domain: 統計・データ分析
+tags: 紙/通常本;統計;データ分析"
+bk_5c74763dee,新装改訂版 現代数理統計学,book,book_or_ebook,"数学, 統計学, 学術書",統計・データ分析,紙/通常本;統計;データ分析,low,ja,rag_or_structured,2970,2025-05-13T11:10:05.339Z,"title: 新装改訂版 現代数理統計学
+genre: 数学, 統計学, 学術書
+primary_domain: 統計・データ分析
+tags: 紙/通常本;統計;データ分析"
+bk_597febd43b,産業組織:理論と実証の接合,book,book_or_ebook,"経済学, 学術書",経済・金融,紙/通常本;経済,low,ja,structured_search,4950,2025-05-13T11:09:59.963Z,"title: 産業組織:理論と実証の接合
+genre: 経済学, 学術書
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_f5219c77fb,【アプリ付】2025年版 出る順宅建士 一問一答○×1000肢問題集　【アプリ付/合格テキストとリンク/赤シート付】(宅地建物取引士) (出る順宅建士シリーズ),book,book_or_ebook,"資格, 不動産",法律・会計・資格,紙/通常本;法律/会計/資格,low,ja,structured_search,2200,2025-07-26T14:47:36.988Z,"title: 【アプリ付】2025年版 出る順宅建士 一問一答○×1000肢問題集　【アプリ付/合格テキストとリンク/赤シート付】(宅地建物取引士) (出る順宅建士シリーズ)
+genre: 資格, 不動産
+primary_domain: 法律・会計・資格
+tags: 紙/通常本;法律/会計/資格"
+bk_3d4be48fa5,テスト駆動開発,book,book_or_ebook,"IT, プログラミング",IT・プログラミング,紙/通常本;IT;クラウド運用;テスト,medium,ja,rag_or_structured,3080,2026-01-25T17:09:05.031Z,"title: テスト駆動開発
+genre: IT, プログラミング
+primary_domain: IT・プログラミング
+tags: 紙/通常本;IT;クラウド運用;テスト"
+bk_d54937a544,行動経済学 -- 伝統的経済学との統合による新しい経済学を目指して 新版,book,book_or_ebook,"学術書, 経済学",経済・金融,紙/通常本;経済,low,ja,structured_search,1597,2025-01-14T15:26:51.105Z,"title: 行動経済学 -- 伝統的経済学との統合による新しい経済学を目指して 新版
+genre: 学術書, 経済学
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_9aa334be9e,簿記の思考と技法,book,book_or_ebook,"学術書, 会計",法律・会計・資格,紙/通常本;法律/会計/資格,low,ja,structured_search,2640,2022-12-31T14:20:24Z,"title: 簿記の思考と技法
+genre: 学術書, 会計
+primary_domain: 法律・会計・資格
+tags: 紙/通常本;法律/会計/資格"
+bk_cf19ff7a96,マルクス経済学 第3版,book,book_or_ebook,,経済・金融,紙/通常本;経済,low,ja,structured_search,2970,2022-12-31T14:20:19Z,"title: マルクス経済学 第3版
+genre: 
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_fe6129317b,世界経済の歴史〔第2版〕―グローバル経済史入門―,book,book_or_ebook,,経済・金融,紙/通常本;経済,low,ja,structured_search,2970,2022-12-31T14:20:28Z,"title: 世界経済の歴史〔第2版〕―グローバル経済史入門―
+genre: 
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_a60cfbb92d,地銀大再編,book,book_or_ebook,,その他,紙/通常本,low,ja,structured_search,643,2026-01-12T10:20:06.041Z,"title: 地銀大再編
+genre: 
+primary_domain: その他
+tags: 紙/通常本"
+bk_21f92210fb,TypeScriptとReact/Next.jsでつくる実践Webアプリケーション開発,book,book_or_ebook,,IT・プログラミング,紙/通常本;IT;Web開発,low,ja,rag_or_structured,1315,2025-11-20T06:09:27.780Z,"title: TypeScriptとReact/Next.jsでつくる実践Webアプリケーション開発
+genre: 
+primary_domain: IT・プログラミング
+tags: 紙/通常本;IT;Web開発"
+bk_076acd618a,プロを目指す人のためのTypeScript入門 安全なコードの書き方から高度な型の使い方まで (Software Design plus),book,book_or_ebook,,IT・プログラミング,紙/通常本;IT;Web開発,low,ja,rag_or_structured,2561,2025-11-20T06:09:27.780Z,"title: プロを目指す人のためのTypeScript入門 安全なコードの書き方から高度な型の使い方まで (Software Design plus)
+genre: 
+primary_domain: IT・プログラミング
+tags: 紙/通常本;IT;Web開発"
+bk_e2ec4a0ca5,組織の経済学,book,book_or_ebook,,経済・金融,紙/通常本;経済,low,ja,structured_search,1269,2025-01-13T07:50:14.063Z,"title: 組織の経済学
+genre: 
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_eefa9375c5,概説日本経済史 近現代 第4版,book,book_or_ebook,,経済・金融,紙/通常本;経済,low,ja,structured_search,1459,2024-12-19T08:43:08.548Z,"title: 概説日本経済史 近現代 第4版
+genre: 
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_4fd1699ddc,演習ミクロ経済学 (演習新経済学ライブラリ),book,book_or_ebook,,経済・金融,紙/通常本;経済,low,ja,structured_search,2750,2023-01-17T00:01:55Z,"title: 演習ミクロ経済学 (演習新経済学ライブラリ)
+genre: 
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_079771caf5,SAP 会社を、社会を、世界を変えるシンプル・イノベーター,book,book_or_ebook,,歴史・国際関係・地政学,紙/通常本;歴史/国際関係,low,ja,structured_search,607,2025-10-28T06:10:04.555Z,"title: SAP 会社を、社会を、世界を変えるシンプル・イノベーター
+genre: 
+primary_domain: 歴史・国際関係・地政学
+tags: 紙/通常本;歴史/国際関係"
+bk_d0922c74fe,IPOは野村にきいてみよう。［改訂版］,book,book_or_ebook,,法律・会計・資格,紙/通常本;法律/会計/資格,low,ja,structured_search,988,2025-10-28T06:10:04.555Z,"title: IPOは野村にきいてみよう。［改訂版］
+genre: 
+primary_domain: 法律・会計・資格
+tags: 紙/通常本;法律/会計/資格"
+bk_69548eddf7,語りかける中学数学 [3訂版],book,book_or_ebook,,数学・数理,紙/通常本;数学,low,ja,structured_search,3190,2025-12-13T18:06:41.761Z,"title: 語りかける中学数学 [3訂版]
+genre: 
+primary_domain: 数学・数理
+tags: 紙/通常本;数学"
+bk_6766c9de82,AWS運用入門 押さえておきたいAWSの基本と運用ノウハウ,book,book_or_ebook,,クラウド・AWS,紙/通常本;AWS;クラウド;クラウド運用,medium,ja,rag_or_structured,673,2026-01-26T07:02:44.985Z,"title: AWS運用入門 押さえておきたいAWSの基本と運用ノウハウ
+genre: 
+primary_domain: クラウド・AWS
+tags: 紙/通常本;AWS;クラウド;クラウド運用"
+bk_2c0ed4dabb,C++プログラミング入門,book,book_or_ebook,,IT・プログラミング,紙/通常本;IT;クラウド運用,medium,ja,rag_or_structured,1262,2026-01-26T07:02:44.985Z,"title: C++プログラミング入門
+genre: 
+primary_domain: IT・プログラミング
+tags: 紙/通常本;IT;クラウド運用"
+bk_20cb0b3a0a,情報処理教科書 データベーススペシャリスト 2025年版 (EXAMPRESS),book,book_or_ebook,,データベース・SQL,洋書;紙/通常本;DB;SQL,medium,en_or_mixed,rag_or_structured,3278,2026-02-05T03:30:51.974Z,"title: 情報処理教科書 データベーススペシャリスト 2025年版 (EXAMPRESS)
+genre: 
+primary_domain: データベース・SQL
+tags: 洋書;紙/通常本;DB;SQL"
+bk_166066320e,独習Java 第6版,book,book_or_ebook,,IT・プログラミング,洋書;紙/通常本;IT,low,en_or_mixed,rag_or_structured,3278,2026-01-25T17:09:31.171Z,"title: 独習Java 第6版
+genre: 
+primary_domain: IT・プログラミング
+tags: 洋書;紙/通常本;IT"
+bk_318b70c400,数研講座シリーズ 大学教養 線形代数,book,book_or_ebook,,数学・数理,紙/通常本;数学,low,ja,structured_search,1620,2024-12-12T06:33:50.383Z,"title: 数研講座シリーズ 大学教養 線形代数
+genre: 
+primary_domain: 数学・数理
+tags: 紙/通常本;数学"
+bk_83d9e58c61,AWSの基本・仕組み・重要用語が全部わかる教科書 (見るだけ図解),book,book_or_ebook,,クラウド・AWS,紙/通常本;AWS;クラウド,medium,ja,rag_or_structured,2970,2023-08-31T21:21:58Z,"title: AWSの基本・仕組み・重要用語が全部わかる教科書 (見るだけ図解)
+genre: 
+primary_domain: クラウド・AWS
+tags: 紙/通常本;AWS;クラウド"
+bk_c18c0017c0,28日で即戦力！　サーバ技術者養成講座　［改訂4版］,book,book_or_ebook,,IT・プログラミング,紙/通常本;IT;クラウド運用,medium,ja,rag_or_structured,3960,2026-03-11T15:52:47.611Z,"title: 28日で即戦力！　サーバ技術者養成講座　［改訂4版］
+genre: 
+primary_domain: IT・プログラミング
+tags: 紙/通常本;IT;クラウド運用"
+bk_da3f826729,(模擬問題付き)徹底攻略 AWS認定 ソリューションアーキテクト − アソシエイト教科書 第3版［SAA-C03］対応,book,book_or_ebook,,クラウド・AWS,紙/通常本;AWS;クラウド;AWS認定,medium,ja,rag_or_structured,2860,2026-03-03T06:04:14.545Z,"title: (模擬問題付き)徹底攻略 AWS認定 ソリューションアーキテクト − アソシエイト教科書 第3版［SAA-C03］対応
+genre: 
+primary_domain: クラウド・AWS
+tags: 紙/通常本;AWS;クラウド;AWS認定"
+bk_a4e3158b58,確率 (モノグラフ 21),book,book_or_ebook,,統計・データ分析,紙/通常本;統計;データ分析,low,ja,rag_or_structured,796,2025-05-02T15:59:06.555Z,"title: 確率 (モノグラフ 21)
+genre: 
+primary_domain: 統計・データ分析
+tags: 紙/通常本;統計;データ分析"
+bk_b38e427efe,インフラエンジニア教本――セキュリティ実践技術編 (Software Design[別冊]),book,book_or_ebook,,セキュリティ,紙/通常本;セキュリティ;クラウド運用,medium,ja,rag_or_structured,1835,2025-04-07T07:03:10.413Z,"title: インフラエンジニア教本――セキュリティ実践技術編 (Software Design[別冊])
+genre: 
+primary_domain: セキュリティ
+tags: 紙/通常本;セキュリティ;クラウド運用"
+bk_7c1beb9f87,インフラエンジニア教本2――システム管理・構築技術解説 (Software Design別冊),book,book_or_ebook,,IT・プログラミング,紙/通常本;IT;クラウド運用,medium,ja,rag_or_structured,1090,2025-04-07T07:03:10.413Z,"title: インフラエンジニア教本2――システム管理・構築技術解説 (Software Design別冊)
+genre: 
+primary_domain: IT・プログラミング
+tags: 紙/通常本;IT;クラウド運用"
+bk_59940b90c3,経済政策論:日本と世界が直面する諸課題,book,book_or_ebook,,経済・金融,紙/通常本;経済,low,ja,structured_search,3520,2024-01-22T17:20:55Z,"title: 経済政策論:日本と世界が直面する諸課題
+genre: 
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_3641394a52,日本統計学会公式認定 統計検定 2級 公式問題集[2018〜2021年],book,book_or_ebook,,統計・データ分析,紙/通常本;統計;データ分析;統計検定,low,ja,rag_or_structured,1980,2022-12-31T15:05:28Z,"title: 日本統計学会公式認定 統計検定 2級 公式問題集[2018〜2021年]
+genre: 
+primary_domain: 統計・データ分析
+tags: 紙/通常本;統計;データ分析;統計検定"
+bk_d6b1f1f1d3,"The Technological Republic: Hard Power, Soft Belief, and the Future of the West",book,book_or_ebook,,歴史・国際関係・地政学,洋書;紙/通常本;歴史/国際関係,low,en_or_mixed,structured_search,2750,2026-03-23T17:15:06.607Z,"title: The Technological Republic: Hard Power, Soft Belief, and the Future of the West
+genre: 
+primary_domain: 歴史・国際関係・地政学
+tags: 洋書;紙/通常本;歴史/国際関係"
+bk_77e53b14fd,外資系コンサルのリサーチ技法（第2版）,book,book_or_ebook,,ビジネス・プロダクト・組織,紙/通常本;ビジネス;組織,low,ja,structured_search,2640,2026-03-23T17:15:06.607Z,"title: 外資系コンサルのリサーチ技法（第2版）
+genre: 
+primary_domain: ビジネス・プロダクト・組織
+tags: 紙/通常本;ビジネス;組織"
+bk_4dbcaaf2c4,自然言語処理の基本と技術 (仕組みが見えるゼロからわかる),book,book_or_ebook,,AI・NLP・RAG,紙/通常本;AI;NLP;RAG候補,high,ja,rag_or_structured,705,2025-09-24T06:11:17.497Z,"title: 自然言語処理の基本と技術 (仕組みが見えるゼロからわかる)
+genre: 
+primary_domain: AI・NLP・RAG
+tags: 紙/通常本;AI;NLP;RAG候補"
+bk_2dc4749d2a,マーケットデザイン: 最先端の実用的な経済学 (ちくま新書),book,book_or_ebook,,経済・金融,紙/通常本;経済,low,ja,structured_search,456,2025-09-24T06:11:17.497Z,"title: マーケットデザイン: 最先端の実用的な経済学 (ちくま新書)
+genre: 
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_4df6e36bef,クチコミ分析システムの作り方 (実践・自然言語処理シリーズ),book,book_or_ebook,,AI・NLP・RAG,紙/通常本;AI;NLP;RAG候補,high,ja,rag_or_structured,834,2025-09-24T06:11:17.497Z,"title: クチコミ分析システムの作り方 (実践・自然言語処理シリーズ)
+genre: 
+primary_domain: AI・NLP・RAG
+tags: 紙/通常本;AI;NLP;RAG候補"
+bk_edecfcc657,日本統計学会公式認定 統計検定準1級対応 統計学実践ワークブック,book,book_or_ebook,,統計・データ分析,紙/通常本;統計;データ分析;統計検定,low,ja,rag_or_structured,3080,2026-01-09T08:12:12.281Z,"title: 日本統計学会公式認定 統計検定準1級対応 統計学実践ワークブック
+genre: 
+primary_domain: 統計・データ分析
+tags: 紙/通常本;統計;データ分析;統計検定"
+bk_006fa3b676,新版 演習線形代数 ((新版演習数学ライブラリ)),book,book_or_ebook,,数学・数理,紙/通常本;数学,low,ja,structured_search,1230,2024-12-11T11:47:50.010Z,"title: 新版 演習線形代数 ((新版演習数学ライブラリ))
+genre: 
+primary_domain: 数学・数理
+tags: 紙/通常本;数学"
+bk_a3202343e3,統計学入門 (基礎統計学Ⅰ),book,book_or_ebook,,統計・データ分析,紙/通常本;統計;データ分析,low,ja,rag_or_structured,1929,2024-12-04T05:43:26.622Z,"title: 統計学入門 (基礎統計学Ⅰ)
+genre: 
+primary_domain: 統計・データ分析
+tags: 紙/通常本;統計;データ分析"
+bk_67c0dcb2b6,会社法判例百選〔第4版〕: 別冊ジュリスト 第254号,book,book_or_ebook,,法律・会計・資格,紙/通常本;法律/会計/資格,low,ja,structured_search,2750,2025-01-01T15:17:09.667Z,"title: 会社法判例百選〔第4版〕: 別冊ジュリスト 第254号
+genre: 
+primary_domain: 法律・会計・資格
+tags: 紙/通常本;法律/会計/資格"
+bk_4813a77d41,The Man in the High Castle (Penguin Essentials),book,book_or_ebook,,その他,洋書;紙/通常本,low,en_or_mixed,structured_search,0,Not Available,"title: The Man in the High Castle (Penguin Essentials)
+genre: 
+primary_domain: その他
+tags: 洋書;紙/通常本"
+bk_0a3167fbad,二訂版 QGISの基本と防災活用,book,book_or_ebook,,その他,紙/通常本,low,ja,structured_search,1829,2025-07-27T06:34:57.907Z,"title: 二訂版 QGISの基本と防災活用
+genre: 
+primary_domain: その他
+tags: 紙/通常本"
+bk_1f274b80e3,マーケットデザイン総論 (シリーズ マーケットデザイン),book,book_or_ebook,,経済・金融,紙/通常本;経済,low,ja,structured_search,3190,2025-10-28T05:59:26.409Z,"title: マーケットデザイン総論 (シリーズ マーケットデザイン)
+genre: 
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_8ba02d6a07,入門 公共経済学 第2版,book,book_or_ebook,,経済・金融,紙/通常本;経済,low,ja,structured_search,2900,2025-10-28T05:59:33.346Z,"title: 入門 公共経済学 第2版
+genre: 
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_8f6e1a2831,効果検証入門〜正しい比較のための因果推論/計量経済学の基礎,book,book_or_ebook,,統計・データ分析,紙/通常本;統計;データ分析,low,ja,rag_or_structured,2948,2025-10-28T05:59:33.346Z,"title: 効果検証入門〜正しい比較のための因果推論/計量経済学の基礎
+genre: 
+primary_domain: 統計・データ分析
+tags: 紙/通常本;統計;データ分析"
+bk_69e4566013,解析入門 (2) 基礎数学 3,book,book_or_ebook,,数学・数理,紙/通常本;数学,low,ja,structured_search,2742,2025-02-01T06:40:08.106Z,"title: 解析入門 (2) 基礎数学 3
+genre: 
+primary_domain: 数学・数理
+tags: 紙/通常本;数学"
+bk_e5582217f7,完全自殺マニュアル,book,book_or_ebook,,社会・ノンフィクション,紙/通常本;社会/ノンフィクション,low,ja,structured_search,1282,2020-07-24T00:50:20Z,"title: 完全自殺マニュアル
+genre: 
+primary_domain: 社会・ノンフィクション
+tags: 紙/通常本;社会/ノンフィクション"
+bk_6867c8b69f,どくとるマンボウ航海記 (新潮文庫),book,book_or_ebook,,小説・文学,紙/通常本;小説,low,ja,structured_search,572,2025-09-28T14:09:12.050Z,"title: どくとるマンボウ航海記 (新潮文庫)
+genre: 
+primary_domain: 小説・文学
+tags: 紙/通常本;小説"
+bk_145c0ea167,都市経済学 (有斐閣ブックス),book,book_or_ebook,,経済・金融,紙/通常本;経済,low,ja,structured_search,2750,2024-11-09T01:11:31.417Z,"title: 都市経済学 (有斐閣ブックス)
+genre: 
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_bcde89a690,環境経済学の第一歩 (有斐閣ストゥディア),book,book_or_ebook,,経済・金融,紙/通常本;経済,low,ja,structured_search,2200,2024-09-30T06:10:28.817Z,"title: 環境経済学の第一歩 (有斐閣ストゥディア)
+genre: 
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_8a660d698a,計量経済学 (New Liberal Arts Selection),book,book_or_ebook,,統計・データ分析,洋書;紙/通常本;統計;データ分析,low,en_or_mixed,rag_or_structured,3600,2025-02-01T03:12:11.684Z,"title: 計量経済学 (New Liberal Arts Selection)
+genre: 
+primary_domain: 統計・データ分析
+tags: 洋書;紙/通常本;統計;データ分析"
+bk_6c60209329,解析入門 (1),book,book_or_ebook,,数学・数理,紙/通常本;数学,low,ja,structured_search,2120,2025-02-01T06:25:28.982Z,"title: 解析入門 (1)
+genre: 
+primary_domain: 数学・数理
+tags: 紙/通常本;数学"
+bk_319c39167d,数学の世界史,book,book_or_ebook,,数学・数理,紙/通常本;数学,low,ja,structured_search,2079,2025-02-01T06:25:28.982Z,"title: 数学の世界史
+genre: 
+primary_domain: 数学・数理
+tags: 紙/通常本;数学"
+bk_46aa05061c,租税法判例六法 第3版,book,book_or_ebook,,法律・会計・資格,紙/通常本;法律/会計/資格,low,ja,structured_search,1415,2024-01-22T14:38:43Z,"title: 租税法判例六法 第3版
+genre: 
+primary_domain: 法律・会計・資格
+tags: 紙/通常本;法律/会計/資格"
+bk_4e3519305d,生きのびるマンション: 〈二つの老い〉をこえて (岩波新書 新赤版 1790),book,book_or_ebook,,社会・ノンフィクション,紙/通常本;社会/ノンフィクション,low,ja,structured_search,410,2025-10-01T09:45:12.630Z,"title: 生きのびるマンション: 〈二つの老い〉をこえて (岩波新書 新赤版 1790)
+genre: 
+primary_domain: 社会・ノンフィクション
+tags: 紙/通常本;社会/ノンフィクション"
+bk_7d2d59ad0e,DeNAと万引きメディアの大罪,book,book_or_ebook,,社会・ノンフィクション,洋書;紙/通常本;社会/ノンフィクション,low,en_or_mixed,structured_search,350,2025-09-24T09:40:51.539Z,"title: DeNAと万引きメディアの大罪
+genre: 
+primary_domain: 社会・ノンフィクション
+tags: 洋書;紙/通常本;社会/ノンフィクション"
+bk_207ca5f398,Ｒによる空間データの統計分析 (統計科学のプラクティス),book,book_or_ebook,,統計・データ分析,紙/通常本;統計;データ分析,low,ja,rag_or_structured,753,2025-07-27T07:10:42.507Z,"title: Ｒによる空間データの統計分析 (統計科学のプラクティス)
+genre: 
+primary_domain: 統計・データ分析
+tags: 紙/通常本;統計;データ分析"
+bk_677289d3be,演習ゲーム理論 (演習新経済学ライブラリ 4),book,book_or_ebook,,経済・金融,紙/通常本;経済,low,ja,structured_search,539,2025-02-03T07:07:58.374Z,"title: 演習ゲーム理論 (演習新経済学ライブラリ 4)
+genre: 
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_88c68515ea,MaaS モビリティ革命の先にある全産業のゲームチェンジ,book,book_or_ebook,,その他,洋書;紙/通常本,low,en_or_mixed,structured_search,256,2024-12-20T03:30:19.418Z,"title: MaaS モビリティ革命の先にある全産業のゲームチェンジ
+genre: 
+primary_domain: その他
+tags: 洋書;紙/通常本"
+bk_7ac9fc2985,演習マクロ経済学 (演習新経済学ライブラリ 2),book,book_or_ebook,,経済・金融,紙/通常本;経済,low,ja,structured_search,1707,2025-02-01T01:38:58.940Z,"title: 演習マクロ経済学 (演習新経済学ライブラリ 2)
+genre: 
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_ab00d663ed,SEが基礎から学ぶ金融システムの教科書,book,book_or_ebook,,経済・金融,紙/通常本;経済;金融システム,low,ja,structured_search,1184,2025-11-11T03:27:20.630Z,"title: SEが基礎から学ぶ金融システムの教科書
+genre: 
+primary_domain: 経済・金融
+tags: 紙/通常本;経済;金融システム"
+bk_33eec7a3a5,現代株式会社法講義,book,book_or_ebook,,法律・会計・資格,紙/通常本;法律/会計/資格,low,ja,structured_search,3520,2024-09-30T02:03:27.448Z,"title: 現代株式会社法講義
+genre: 
+primary_domain: 法律・会計・資格
+tags: 紙/通常本;法律/会計/資格"
+bk_461d0d35ee,入門財政学[第2版],book,book_or_ebook,,経済・金融,紙/通常本;経済,low,ja,structured_search,3080,2025-10-28T02:56:49.123Z,"title: 入門財政学[第2版]
+genre: 
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_25e0afa720,Rによるベイズ統計分析 (シリーズ〈統計科学のプラクティス〉 2),book,book_or_ebook,,統計・データ分析,紙/通常本;統計;データ分析,low,ja,rag_or_structured,1251,2025-02-01T06:41:39.279Z,"title: Rによるベイズ統計分析 (シリーズ〈統計科学のプラクティス〉 2)
+genre: 
+primary_domain: 統計・データ分析
+tags: 紙/通常本;統計;データ分析"
+bk_f19a9d4415,生物から見た世界 (岩波文庫 青 943-1),book,book_or_ebook,,歴史・国際関係・地政学,紙/通常本;歴史/国際関係,low,ja,structured_search,858,2024-12-17T08:21:22.807Z,"title: 生物から見た世界 (岩波文庫 青 943-1)
+genre: 
+primary_domain: 歴史・国際関係・地政学
+tags: 紙/通常本;歴史/国際関係"
+bk_1bad40ef8e,SEの仕事を楽しくしよう: こんなSEはだめになる,book,book_or_ebook,,その他,紙/通常本,low,ja,structured_search,291,2026-02-23T05:00:15.555Z,"title: SEの仕事を楽しくしよう: こんなSEはだめになる
+genre: 
+primary_domain: その他
+tags: 紙/通常本"
+bk_0fba2e7b48,サーバ/インフラエンジニア養成読本 ログ収集~可視化編 [現場主導のデータ分析環境を構築!] (Software Design plus),book,book_or_ebook,,IT・プログラミング,紙/通常本;IT;クラウド運用,medium,ja,rag_or_structured,428,2026-02-10T06:03:39.294Z,"title: サーバ/インフラエンジニア養成読本 ログ収集~可視化編 [現場主導のデータ分析環境を構築!] (Software Design plus)
+genre: 
+primary_domain: IT・プログラミング
+tags: 紙/通常本;IT;クラウド運用"
+bk_39db3104c9,富士ソフト創業者 野澤宏の「変化の時を生き抜く」,book,book_or_ebook,,その他,紙/通常本,low,ja,structured_search,536,2025-12-21T07:11:30.466Z,"title: 富士ソフト創業者 野澤宏の「変化の時を生き抜く」
+genre: 
+primary_domain: その他
+tags: 紙/通常本"
+bk_be14f733a8,TCP/IPソケットプログラミング (C言語編),book,book_or_ebook,,IT・プログラミング,紙/通常本;IT;ネットワーク;クラウド運用,medium,ja,rag_or_structured,945,2025-11-18T05:27:29.197Z,"title: TCP/IPソケットプログラミング (C言語編)
+genre: 
+primary_domain: IT・プログラミング
+tags: 紙/通常本;IT;ネットワーク;クラウド運用"
+bk_14559b93dd,オウンドメディアリクルーティングの教科書――採用戦略から具体的な施策まで、この一冊ですべてわかる,book,book_or_ebook,,ビジネス・プロダクト・組織,紙/通常本;ビジネス;組織;就活/キャリア,low,ja,structured_search,417,2025-11-11T06:14:59.358Z,"title: オウンドメディアリクルーティングの教科書――採用戦略から具体的な施策まで、この一冊ですべてわかる
+genre: 
+primary_domain: ビジネス・プロダクト・組織
+tags: 紙/通常本;ビジネス;組織;就活/キャリア"
+bk_ff1cebe6f3,何が教師を壊すのか　追いつめられる先生たちのリアル (朝日新書),book,book_or_ebook,,社会・ノンフィクション,紙/通常本;社会/ノンフィクション,low,ja,structured_search,532,2025-11-07T05:15:30.062Z,"title: 何が教師を壊すのか　追いつめられる先生たちのリアル (朝日新書)
+genre: 
+primary_domain: 社会・ノンフィクション
+tags: 紙/通常本;社会/ノンフィクション"
+bk_16ec4c3946,スケールフリーネットワーク ものづくり日本だからできるDX,book,book_or_ebook,,ビジネス・プロダクト・組織,紙/通常本;ビジネス;組織,low,ja,structured_search,372,2025-10-07T05:21:14.896Z,"title: スケールフリーネットワーク ものづくり日本だからできるDX
+genre: 
+primary_domain: ビジネス・プロダクト・組織
+tags: 紙/通常本;ビジネス;組織"
+bk_01165e9929,英語屋さん ―ソニー創業者・井深大に仕えた四年半 (集英社新書),book,book_or_ebook,,英語・語学,紙/通常本;英語,low,ja,structured_search,369,2025-10-07T05:15:29.865Z,"title: 英語屋さん ―ソニー創業者・井深大に仕えた四年半 (集英社新書)
+genre: 
+primary_domain: 英語・語学
+tags: 紙/通常本;英語"
+bk_71c179fdf0,陸に上がった日立造船――復活にマジックはない あるのは技術力だ,book,book_or_ebook,,その他,紙/通常本,low,ja,structured_search,368,2025-10-03T05:59:37.804Z,"title: 陸に上がった日立造船――復活にマジックはない あるのは技術力だ
+genre: 
+primary_domain: その他
+tags: 紙/通常本"
+bk_38215988da,生命保険入門 新版,book,book_or_ebook,,経済・金融,紙/通常本;経済;金融システム,low,ja,structured_search,621,2025-09-08T08:26:56.947Z,"title: 生命保険入門 新版
+genre: 
+primary_domain: 経済・金融
+tags: 紙/通常本;経済;金融システム"
+bk_8e33ef34f2,生命保険数学の基礎 第2版: アクチュアリー数学入門,book,book_or_ebook,,数学・数理,紙/通常本;数学;金融システム,low,ja,structured_search,513,2025-09-08T08:02:41.928Z,"title: 生命保険数学の基礎 第2版: アクチュアリー数学入門
+genre: 
+primary_domain: 数学・数理
+tags: 紙/通常本;数学;金融システム"
+bk_3f08aa57dc,空間統計学: 自然科学から人文・社会科学まで (統計ライブラリー),book,book_or_ebook,,統計・データ分析,紙/通常本;統計;データ分析,low,ja,rag_or_structured,3180,2025-07-28T16:15:10.048Z,"title: 空間統計学: 自然科学から人文・社会科学まで (統計ライブラリー)
+genre: 
+primary_domain: 統計・データ分析
+tags: 紙/通常本;統計;データ分析"
+bk_5ddd8080ac,社会政策 -- 福祉と労働の経済学 (有斐閣アルマ),book,book_or_ebook,,経済・金融,紙/通常本;経済,low,ja,structured_search,970,2025-04-15T05:55:25.468Z,"title: 社会政策 -- 福祉と労働の経済学 (有斐閣アルマ)
+genre: 
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_70a016fa41,マッキンゼー流図解の技術,book,book_or_ebook,,その他,紙/通常本,low,ja,structured_search,657,2025-02-18T06:06:42.399Z,"title: マッキンゼー流図解の技術
+genre: 
+primary_domain: その他
+tags: 紙/通常本"
+bk_31cafca0f1,Rによる計量経済分析 (シリーズ〈統計科学のプラクティス〉),book,book_or_ebook,,統計・データ分析,紙/通常本;統計;データ分析,low,ja,rag_or_structured,806,2025-02-01T08:30:04.346Z,"title: Rによる計量経済分析 (シリーズ〈統計科学のプラクティス〉)
+genre: 
+primary_domain: 統計・データ分析
+tags: 紙/通常本;統計;データ分析"
+bk_5a656e9369,Do Androids Dream of Electric Sheep? (S.F. Masterworks),book,book_or_ebook,,小説・文学,洋書;紙/通常本;小説,low,en_or_mixed,structured_search,1410,2020-07-21T18:42:22Z,"title: Do Androids Dream of Electric Sheep? (S.F. Masterworks)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;紙/通常本;小説"
+bk_b5342e4b57,長寿・健康の人口学 (人口学ライブラリー),book,book_or_ebook,,経済・金融,紙/通常本;経済,low,ja,structured_search,2870,2025-02-19T07:39:54.035Z,"title: 長寿・健康の人口学 (人口学ライブラリー)
+genre: 
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_2d256b43ad,ソフトウェアテスト技法練習帳 ~知識を経験に変える40問~,book,book_or_ebook,,IT・プログラミング,紙/通常本;IT;テスト,low,ja,rag_or_structured,1504,2026-02-18T05:49:52.837Z,"title: ソフトウェアテスト技法練習帳 ~知識を経験に変える40問~
+genre: 
+primary_domain: IT・プログラミング
+tags: 紙/通常本;IT;テスト"
+bk_72aab76bca,ソフトウェアアーキテクチャの基礎 ―エンジニアリングに基づく体系的アプローチ,book,book_or_ebook,,IT・プログラミング,紙/通常本;IT,low,ja,rag_or_structured,4180,2026-02-05T03:48:47.814Z,"title: ソフトウェアアーキテクチャの基礎 ―エンジニアリングに基づく体系的アプローチ
+genre: 
+primary_domain: IT・プログラミング
+tags: 紙/通常本;IT"
+bk_98990a6ca0,書を捨てよ、町へ出よう (角川文庫),book,book_or_ebook,,小説・文学,紙/通常本;小説,low,ja,structured_search,748,2025-11-12T02:07:15.549Z,"title: 書を捨てよ、町へ出よう (角川文庫)
+genre: 
+primary_domain: 小説・文学
+tags: 紙/通常本;小説"
+bk_caf24d648e,実務で使える メール技術の教科書 基本のしくみからプロトコル・サーバー構築・送信ドメイン認証・添付ファイル・暗号化・セキュリティ対策まで,book,book_or_ebook,IT,セキュリティ,紙/通常本;セキュリティ;ネットワーク;クラウド運用,medium,ja,rag_or_structured,2618,2026-02-10T07:24:42.501Z,"title: 実務で使える メール技術の教科書 基本のしくみからプロトコル・サーバー構築・送信ドメイン認証・添付ファイル・暗号化・セキュリティ対策まで
+genre: IT
+primary_domain: セキュリティ
+tags: 紙/通常本;セキュリティ;ネットワーク;クラウド運用"
+bk_d459dd1d93,経営なき破綻平成生保危機の真実,book,book_or_ebook,"ノンフィクション, ビジネス書",その他,紙/通常本,low,ja,structured_search,1360,2025-09-08T02:28:57.969Z,"title: 経営なき破綻平成生保危機の真実
+genre: ノンフィクション, ビジネス書
+primary_domain: その他
+tags: 紙/通常本"
+bk_f6c376aceb,ソーシャルゲームのビジネスモデル: フリーミアムの経済分析,book,book_or_ebook,"経済学, 学術書",経済・金融,紙/通常本;経済,low,ja,structured_search,1758,2025-09-24T09:13:57.610Z,"title: ソーシャルゲームのビジネスモデル: フリーミアムの経済分析
+genre: 経済学, 学術書
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_d35d3bf08f,SQLパズル 第2版~プログラミングが変わる書き方/考え方,book,book_or_ebook,"IT, プログラミング",データベース・SQL,紙/通常本;DB;SQL;クラウド運用,medium,ja,rag_or_structured,1219,2026-01-28T05:25:44.205Z,"title: SQLパズル 第2版~プログラミングが変わる書き方/考え方
+genre: IT, プログラミング
+primary_domain: データベース・SQL
+tags: 紙/通常本;DB;SQL;クラウド運用"
+bk_178399c077,時系列分析と状態空間モデルの基礎: RとStanで学ぶ理論と実装,book,book_or_ebook,"統計学, プログラミング",IT・プログラミング,洋書;紙/通常本;IT;クラウド運用,medium,en_or_mixed,rag_or_structured,1927,2025-07-27T08:12:50.034Z,"title: 時系列分析と状態空間モデルの基礎: RとStanで学ぶ理論と実装
+genre: 統計学, プログラミング
+primary_domain: IT・プログラミング
+tags: 洋書;紙/通常本;IT;クラウド運用"
+bk_a1ae70f43e,さあ、才能(じぶん)に目覚めよう 新版 ストレングス・ファインダー2.0,book,book_or_ebook,ビジネス書,ビジネス・プロダクト・組織,紙/通常本;ビジネス;組織,low,ja,structured_search,1980,2020-07-26T17:43:07Z,"title: さあ、才能(じぶん)に目覚めよう 新版 ストレングス・ファインダー2.0
+genre: ビジネス書
+primary_domain: ビジネス・プロダクト・組織
+tags: 紙/通常本;ビジネス;組織"
+bk_a1785df2af,現代経済学-ゲーム理論・行動経済学・制度論 (中公新書 2501),book,book_or_ebook,"学術書, 経済学",経済・金融,紙/通常本;経済,low,ja,structured_search,490,2025-01-14T06:20:06.466Z,"title: 現代経済学-ゲーム理論・行動経済学・制度論 (中公新書 2501)
+genre: 学術書, 経済学
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_a15b0a5af3,環境経済学 (有斐閣アルマ),book,book_or_ebook,"学術書, 経済学",経済・金融,紙/通常本;経済,low,ja,structured_search,301,2025-01-11T23:40:38.047Z,"title: 環境経済学 (有斐閣アルマ)
+genre: 学術書, 経済学
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_dc35c0fc8e,C実践プログラミング 第3版,book,book_or_ebook,"IT, プログラミング",IT・プログラミング,紙/通常本;IT;クラウド運用,medium,ja,rag_or_structured,2355,2025-10-29T06:31:18.079Z,"title: C実践プログラミング 第3版
+genre: IT, プログラミング
+primary_domain: IT・プログラミング
+tags: 紙/通常本;IT;クラウド運用"
+bk_2bd70e7640,Software Design総集編【2018～2023】,book,book_or_ebook,"IT, 雑誌",その他,紙/通常本,low,ja,structured_search,2640,2026-01-25T15:00:46.729Z,"title: Software Design総集編【2018～2023】
+genre: IT, 雑誌
+primary_domain: その他
+tags: 紙/通常本"
+bk_f7bf64cdd7,チャート式シリーズ 大学教養 微分積分 (チャート式・シリーズ),book,book_or_ebook,"数学, 学術書",数学・数理,紙/通常本;数学,low,ja,structured_search,3080,2024-10-02T15:04:32.149Z,"title: チャート式シリーズ 大学教養 微分積分 (チャート式・シリーズ)
+genre: 数学, 学術書
+primary_domain: 数学・数理
+tags: 紙/通常本;数学"
+bk_b643b27888,数研講座シリーズ 大学教養 微分積分,book,book_or_ebook,"数学, 学術書",数学・数理,紙/通常本;数学,low,ja,structured_search,2750,2024-10-02T15:04:32.149Z,"title: 数研講座シリーズ 大学教養 微分積分
+genre: 数学, 学術書
+primary_domain: 数学・数理
+tags: 紙/通常本;数学"
+bk_44a91bc6c3,マ-ケティングの統計分析 (シリーズ統計科学のプラクティス 3),book,book_or_ebook,統計学,統計・データ分析,紙/通常本;統計;データ分析,low,ja,rag_or_structured,1140,2025-05-28T07:20:51.099Z,"title: マ-ケティングの統計分析 (シリーズ統計科学のプラクティス 3)
+genre: 統計学
+primary_domain: 統計・データ分析
+tags: 紙/通常本;統計;データ分析"
+bk_67e45d2a29,C++実践プログラミング,book,book_or_ebook,"IT, プログラミング",IT・プログラミング,紙/通常本;IT;クラウド運用,medium,ja,rag_or_structured,865,2026-01-26T21:09:58.933Z,"title: C++実践プログラミング
+genre: IT, プログラミング
+primary_domain: IT・プログラミング
+tags: 紙/通常本;IT;クラウド運用"
+bk_bcb157dccc,徹底攻略 JSTQB Foundation教科書＆問題集 シラバス2023対応,book,book_or_ebook,"IT, 資格, プログラミング",IT・プログラミング,紙/通常本;IT;クラウド運用;テスト,medium,ja,rag_or_structured,3850,2026-01-26T21:09:58.933Z,"title: 徹底攻略 JSTQB Foundation教科書＆問題集 シラバス2023対応
+genre: IT, 資格, プログラミング
+primary_domain: IT・プログラミング
+tags: 紙/通常本;IT;クラウド運用;テスト"
+bk_af99ba13d1,[改訂第2版] [入門+実践]要求を仕様化する技術・表現する技術 -仕様が書けていますか?,book,book_or_ebook,"IT, ビジネス書",IT・プログラミング,紙/通常本;IT,low,ja,rag_or_structured,2838,2026-02-17T19:18:10.932Z,"title: [改訂第2版] [入門+実践]要求を仕様化する技術・表現する技術 -仕様が書けていますか?
+genre: IT, ビジネス書
+primary_domain: IT・プログラミング
+tags: 紙/通常本;IT"
+bk_46aebca631,意思決定理論入門,book,book_or_ebook,"学術書, 経済学",経済・金融,紙/通常本;経済,low,ja,structured_search,3080,2024-01-22T20:52:55Z,"title: 意思決定理論入門
+genre: 学術書, 経済学
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_df43d46ba4,すべてはモテるためである (文庫ぎんが堂),book,book_or_ebook,"ノンフィクション, エッセイ",小説・文学,紙/通常本;小説,low,ja,structured_search,734,2026-02-25T08:35:17.879Z,"title: すべてはモテるためである (文庫ぎんが堂)
+genre: ノンフィクション, エッセイ
+primary_domain: 小説・文学
+tags: 紙/通常本;小説"
+bk_0d5e09ac00,ゲーム理論〔第3版〕,book,book_or_ebook,"経済学, 学術書",経済・金融,紙/通常本;経済,low,ja,structured_search,4730,2025-01-01T14:14:36.180Z,"title: ゲーム理論〔第3版〕
+genre: 経済学, 学術書
+primary_domain: 経済・金融
+tags: 紙/通常本;経済"
+bk_3fd1a648b9,【改訂第3版】WordPress 仕事の現場でサッと使える！ デザイン教科書 ［WordPress 6.x対応版］ (Webデザイナー養成講座),book,book_or_ebook,IT,IT・プログラミング,紙/通常本;IT;Web開発,low,ja,rag_or_structured,3300,2025-11-06T06:02:48.380Z,"title: 【改訂第3版】WordPress 仕事の現場でサッと使える！ デザイン教科書 ［WordPress 6.x対応版］ (Webデザイナー養成講座)
+genre: IT
+primary_domain: IT・プログラミング
+tags: 紙/通常本;IT;Web開発"
+bk_1a78079d9c,JavaScriptゲームプログラミング　知っておきたい数学と物理の基本 (Future Coders（NextPublishing）),Kindle Unlimited,book_or_ebook,"IT, 数学, プログラミング",IT・プログラミング,Kindle Unlimited;IT;クラウド運用;Web開発,medium,ja,rag_or_structured,0,2020-05-31T08:39:00Z,"title: JavaScriptゲームプログラミング　知っておきたい数学と物理の基本 (Future Coders（NextPublishing）)
+genre: IT, 数学, プログラミング
+primary_domain: IT・プログラミング
+tags: Kindle Unlimited;IT;クラウド運用;Web開発"
+bk_f4168d517b,スラスラ読める JavaScriptふりがなプログラミング,Kindle Unlimited,book_or_ebook,"IT, プログラミング",IT・プログラミング,Kindle Unlimited;IT;クラウド運用;Web開発,medium,ja,rag_or_structured,0,2020-05-16T13:45:00Z,"title: スラスラ読める JavaScriptふりがなプログラミング
+genre: IT, プログラミング
+primary_domain: IT・プログラミング
+tags: Kindle Unlimited;IT;クラウド運用;Web開発"
+bk_d5cb3a178d,よくわかるJavaScript,Kindle Unlimited,book_or_ebook,"IT, プログラミング",IT・プログラミング,Kindle Unlimited;IT;クラウド運用;Web開発,medium,ja,rag_or_structured,0,2020-05-16T09:35:00Z,"title: よくわかるJavaScript
+genre: IT, プログラミング
+primary_domain: IT・プログラミング
+tags: Kindle Unlimited;IT;クラウド運用;Web開発"
+bk_664d619e36,仕事の説明書〜あなたは今どんなゲームをしているのか〜 (土日出版),Kindle Unlimited,book_or_ebook,ビジネス書,ビジネス・プロダクト・組織,Kindle Unlimited;ビジネス;組織,low,ja,structured_search,0,2020-05-13T13:32:00Z,"title: 仕事の説明書〜あなたは今どんなゲームをしているのか〜 (土日出版)
+genre: ビジネス書
+primary_domain: ビジネス・プロダクト・組織
+tags: Kindle Unlimited;ビジネス;組織"
+bk_9bba61e6d8,はじめてのノーリスク起業法 実用情報2022,Kindle Unlimited,book_or_ebook,ビジネス書,ビジネス・プロダクト・組織,Kindle Unlimited;ビジネス;組織,low,ja,structured_search,0,2020-05-13T13:03:00Z,"title: はじめてのノーリスク起業法 実用情報2022
+genre: ビジネス書
+primary_domain: ビジネス・プロダクト・組織
+tags: Kindle Unlimited;ビジネス;組織"
+bk_49b4349b41,100語で伝わる 魔法の英単語ランキング,Kindle Unlimited,book_or_ebook,英語,英語・語学,Kindle Unlimited;英語,low,ja,structured_search,0,2020-05-13T13:01:00Z,"title: 100語で伝わる 魔法の英単語ランキング
+genre: 英語
+primary_domain: 英語・語学
+tags: Kindle Unlimited;英語"
+bk_e63f3f82be,"これ1冊でゼロから学べる Webプログラミング超入門　ーHTML,CSS,JavaScript,PHPをまるごとマスター",Kindle Unlimited,book_or_ebook,"IT, プログラミング",IT・プログラミング,Kindle Unlimited;IT;クラウド運用;Web開発,medium,ja,rag_or_structured,0,2020-05-13T12:55:00Z,"title: これ1冊でゼロから学べる Webプログラミング超入門　ーHTML,CSS,JavaScript,PHPをまるごとマスター
+genre: IT, プログラミング
+primary_domain: IT・プログラミング
+tags: Kindle Unlimited;IT;クラウド運用;Web開発"
+bk_c54ad9c0c7,「ルフィ」の子供たち (扶桑社ＢＯＯＫＳ新書),Kindle Unlimited,book_or_ebook,"ノンフィクション, ルポ",社会・ノンフィクション,Kindle Unlimited;社会/ノンフィクション,low,ja,structured_search,0,2025-12-18T12:49:00Z,"title: 「ルフィ」の子供たち (扶桑社ＢＯＯＫＳ新書)
+genre: ノンフィクション, ルポ
+primary_domain: 社会・ノンフィクション
+tags: Kindle Unlimited;社会/ノンフィクション"
+bk_95f7831e8a,ごはんがすすむ おかず食堂 (池田書店),Kindle Unlimited,book_or_ebook,"雑誌, 食べ物",食・料理,Kindle Unlimited;料理,low,ja,structured_search,0,2025-11-17T14:24:00Z,"title: ごはんがすすむ おかず食堂 (池田書店)
+genre: 雑誌, 食べ物
+primary_domain: 食・料理
+tags: Kindle Unlimited;料理"
+bk_aee4f86bf7,転職エージェントが教えない LinkedInの真実,Kindle Unlimited,book_or_ebook,ビジネス書,ビジネス・プロダクト・組織,洋書;Kindle Unlimited;ビジネス;組織;就活/キャリア,low,en_or_mixed,structured_search,0,2025-11-17T02:05:00Z,"title: 転職エージェントが教えない LinkedInの真実
+genre: ビジネス書
+primary_domain: ビジネス・プロダクト・組織
+tags: 洋書;Kindle Unlimited;ビジネス;組織;就活/キャリア"
+bk_d8e46a852c,MEDIA MAKERS―社会が動く「影響力」の正体 宣伝会議,Kindle Unlimited,book_or_ebook,ビジネス書,その他,洋書;Kindle Unlimited,low,en_or_mixed,structured_search,0,2025-11-16T02:21:00Z,"title: MEDIA MAKERS―社会が動く「影響力」の正体 宣伝会議
+genre: ビジネス書
+primary_domain: その他
+tags: 洋書;Kindle Unlimited"
+bk_4690fd0bbf,PLURALITY　対立を創造に変える、協働テクノロジーと民主主義の未来（サイボウズ式ブックス）,Kindle Unlimited,book_or_ebook,"社会問題, 洋書",社会・ノンフィクション,洋書;Kindle Unlimited;社会/ノンフィクション,low,en_or_mixed,structured_search,0,2025-10-21T13:55:00Z,"title: PLURALITY　対立を創造に変える、協働テクノロジーと民主主義の未来（サイボウズ式ブックス）
+genre: 社会問題, 洋書
+primary_domain: 社会・ノンフィクション
+tags: 洋書;Kindle Unlimited;社会/ノンフィクション"
+bk_80a12b042d,うちで作るからあげがウマい！ (池田書店),Kindle Unlimited,book_or_ebook,"雑誌, 食べ物",食・料理,Kindle Unlimited;料理,low,ja,structured_search,0,2025-10-20T01:09:00Z,"title: うちで作るからあげがウマい！ (池田書店)
+genre: 雑誌, 食べ物
+primary_domain: 食・料理
+tags: Kindle Unlimited;料理"
+bk_8d711e86a2,晋遊舎ムック 便利帖シリーズ086　自宅で作る餃子の便利帖,Kindle Unlimited,book_or_ebook,"食べ物, 雑誌",食・料理,Kindle Unlimited;料理,low,ja,structured_search,0,2025-10-20T01:09:00Z,"title: 晋遊舎ムック 便利帖シリーズ086　自宅で作る餃子の便利帖
+genre: 食べ物, 雑誌
+primary_domain: 食・料理
+tags: Kindle Unlimited;料理"
+bk_12ff5f1d27,餃子の教科書 エイムック,Kindle Unlimited,book_or_ebook,"食べ物, 雑誌",食・料理,Kindle Unlimited;料理,low,ja,structured_search,0,2025-10-20T01:09:00Z,"title: 餃子の教科書 エイムック
+genre: 食べ物, 雑誌
+primary_domain: 食・料理
+tags: Kindle Unlimited;料理"
+bk_e31f3b67ff,新装版 チーム・バチスタの栄光【電子特典付き】 (宝島社文庫),Kindle Unlimited,book_or_ebook,小説,ビジネス・プロダクト・組織,Kindle Unlimited;ビジネス;組織,low,ja,structured_search,0,2025-10-05T21:53:00Z,"title: 新装版 チーム・バチスタの栄光【電子特典付き】 (宝島社文庫)
+genre: 小説
+primary_domain: ビジネス・プロダクト・組織
+tags: Kindle Unlimited;ビジネス;組織"
+bk_001430cf60,伊藤真の法学入門---講義再現版（第2版） 伊藤真の法律入門シリーズ,Kindle Unlimited,book_or_ebook,法律,法律・会計・資格,Kindle Unlimited;法律/会計/資格,low,ja,structured_search,0,2025-10-02T10:43:00Z,"title: 伊藤真の法学入門---講義再現版（第2版） 伊藤真の法律入門シリーズ
+genre: 法律
+primary_domain: 法律・会計・資格
+tags: Kindle Unlimited;法律/会計/資格"
+bk_928e2f69c3,菊と刀 (光文社古典新訳文庫),Kindle Unlimited,book_or_ebook,小説,小説・文学,Kindle Unlimited;小説,low,ja,structured_search,0,2025-10-02T00:55:00Z,"title: 菊と刀 (光文社古典新訳文庫)
+genre: 小説
+primary_domain: 小説・文学
+tags: Kindle Unlimited;小説"
+bk_42aa16c189,財政学から見た日本経済 (光文社新書),Kindle Unlimited,book_or_ebook,"学術書, 経済学",経済・金融,Kindle Unlimited;経済,low,ja,structured_search,0,2025-10-02T00:54:00Z,"title: 財政学から見た日本経済 (光文社新書)
+genre: 学術書, 経済学
+primary_domain: 経済・金融
+tags: Kindle Unlimited;経済"
+bk_b042b61e47,ネットは社会を分断しない (角川新書),Kindle Unlimited,book_or_ebook,"学術書, ノンフィクション",その他,Kindle Unlimited,low,ja,structured_search,0,2025-09-23T13:32:00Z,"title: ネットは社会を分断しない (角川新書)
+genre: 学術書, ノンフィクション
+primary_domain: その他
+tags: Kindle Unlimited"
+bk_37f229455e,健康を食い物にするメディアたち ネット時代の医療情報との付き合い方 (BuzzFeed Japan Book),Kindle Unlimited,book_or_ebook,"ノンフィクション, 社会問題",社会・ノンフィクション,洋書;Kindle Unlimited;社会/ノンフィクション,low,en_or_mixed,structured_search,0,2025-09-23T13:32:00Z,"title: 健康を食い物にするメディアたち ネット時代の医療情報との付き合い方 (BuzzFeed Japan Book)
+genre: ノンフィクション, 社会問題
+primary_domain: 社会・ノンフィクション
+tags: 洋書;Kindle Unlimited;社会/ノンフィクション"
+bk_99d58dbd71,億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド,Kindle Unlimited,book_or_ebook,ビジネス書,経済・金融,Kindle Unlimited;経済;金融システム,low,ja,structured_search,0,2025-09-09T01:55:00Z,"title: 億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド
+genre: ビジネス書
+primary_domain: 経済・金融
+tags: Kindle Unlimited;経済;金融システム"
+bk_53260f1576,Harry Potter and the Chamber of Secrets (English Edition),Kindle Unlimited,book_or_ebook,"小説, 洋書",小説・文学,洋書;Kindle Unlimited;小説;ハリー・ポッター,low,en_or_mixed,structured_search,0,2020-12-04T16:30:00Z,"title: Harry Potter and the Chamber of Secrets (English Edition)
+genre: 小説, 洋書
+primary_domain: 小説・文学
+tags: 洋書;Kindle Unlimited;小説;ハリー・ポッター"
+bk_3479da702e,ハリー・ポッターと賢者の石: Harry Potter and the Philosopher's Stone ハリー・ポッタ (Harry Potter),Kindle Unlimited,book_or_ebook,"小説, 洋書",小説・文学,洋書;Kindle Unlimited;小説;ハリー・ポッター,low,en_or_mixed,structured_search,0,2020-12-04T16:20:00Z,"title: ハリー・ポッターと賢者の石: Harry Potter and the Philosopher's Stone ハリー・ポッタ (Harry Potter)
+genre: 小説, 洋書
+primary_domain: 小説・文学
+tags: 洋書;Kindle Unlimited;小説;ハリー・ポッター"
+bk_19eead4790,JavaScriptの理解を深めた人がさらにもう一歩先に進むための本,Kindle Unlimited,book_or_ebook,"IT, プログラミング",IT・プログラミング,Kindle Unlimited;IT;クラウド運用;Web開発,medium,ja,rag_or_structured,0,2020-05-13T11:44:00Z,"title: JavaScriptの理解を深めた人がさらにもう一歩先に進むための本
+genre: IT, プログラミング
+primary_domain: IT・プログラミング
+tags: Kindle Unlimited;IT;クラウド運用;Web開発"
+bk_7d0d1b8336,真剣に学ぶJavaScriptの基礎,Kindle Unlimited,book_or_ebook,"IT, プログラミング",IT・プログラミング,Kindle Unlimited;IT;クラウド運用;Web開発,medium,ja,rag_or_structured,0,2020-05-13T11:43:00Z,"title: 真剣に学ぶJavaScriptの基礎
+genre: IT, プログラミング
+primary_domain: IT・プログラミング
+tags: Kindle Unlimited;IT;クラウド運用;Web開発"
+bk_b2b8ebd16a,コンサル一年目が学ぶこと 新人・就活生からベテラン社員まで一生役立つ究極のベーシックスキル30選,Kindle Unlimited,book_or_ebook,ビジネス書,ビジネス・プロダクト・組織,Kindle Unlimited;ビジネス;組織,low,ja,structured_search,0,2023-10-21T11:02:00Z,"title: コンサル一年目が学ぶこと 新人・就活生からベテラン社員まで一生役立つ究極のベーシックスキル30選
+genre: ビジネス書
+primary_domain: ビジネス・プロダクト・組織
+tags: Kindle Unlimited;ビジネス;組織"
+bk_6c8d7289a7,1984 (English Edition),Kindle Unlimited,book_or_ebook,"小説, 洋書",小説・文学,洋書;Kindle Unlimited;小説,low,en_or_mixed,structured_search,0,2021-02-08T13:57:00Z,"title: 1984 (English Edition)
+genre: 小説, 洋書
+primary_domain: 小説・文学
+tags: 洋書;Kindle Unlimited;小説"
+bk_34c99c09d7,こころ,Kindle Unlimited,book_or_ebook,小説,小説・文学,Kindle Unlimited;小説,low,ja,structured_search,0,2021-01-21T10:26:00Z,"title: こころ
+genre: 小説
+primary_domain: 小説・文学
+tags: Kindle Unlimited;小説"
+bk_bcb4ae1f69,デイビッド・セインの世界一便利な単語帳 知ってそうで知らない実用単語 impress QuickBooks,Kindle Unlimited,book_or_ebook,英語,英語・語学,洋書;Kindle Unlimited;英語,low,en_or_mixed,structured_search,0,2021-01-08T11:49:00Z,"title: デイビッド・セインの世界一便利な単語帳 知ってそうで知らない実用単語 impress QuickBooks
+genre: 英語
+primary_domain: 英語・語学
+tags: 洋書;Kindle Unlimited;英語"
+bk_62a063097b,Harry Potter and the Half-Blood Prince (English Edition),Kindle Unlimited,book_or_ebook,"小説, 洋書",小説・文学,洋書;Kindle Unlimited;小説;ハリー・ポッター,low,en_or_mixed,structured_search,0,2021-01-06T16:59:00Z,"title: Harry Potter and the Half-Blood Prince (English Edition)
+genre: 小説, 洋書
+primary_domain: 小説・文学
+tags: 洋書;Kindle Unlimited;小説;ハリー・ポッター"
+bk_6097bafdf0,Harry Potter and the Order of the Phoenix,Kindle Unlimited,book_or_ebook,"小説, 洋書",小説・文学,洋書;Kindle Unlimited;小説;ハリー・ポッター,low,en_or_mixed,structured_search,0,2021-01-06T16:59:00Z,"title: Harry Potter and the Order of the Phoenix
+genre: 小説, 洋書
+primary_domain: 小説・文学
+tags: 洋書;Kindle Unlimited;小説;ハリー・ポッター"
+bk_9d0a6f2111,Harry Potter and the Goblet of Fire,Kindle Unlimited,book_or_ebook,"小説, 洋書",小説・文学,洋書;Kindle Unlimited;小説;ハリー・ポッター,low,en_or_mixed,structured_search,0,2020-12-22T15:07:00Z,"title: Harry Potter and the Goblet of Fire
+genre: 小説, 洋書
+primary_domain: 小説・文学
+tags: 洋書;Kindle Unlimited;小説;ハリー・ポッター"
+bk_1ee4879e2d,Harry Potter and the Prisoner of Azkaban,Kindle Unlimited,book_or_ebook,"小説, 洋書",小説・文学,洋書;Kindle Unlimited;小説;ハリー・ポッター,low,en_or_mixed,structured_search,0,2020-12-11T15:39:00Z,"title: Harry Potter and the Prisoner of Azkaban
+genre: 小説, 洋書
+primary_domain: 小説・文学
+tags: 洋書;Kindle Unlimited;小説;ハリー・ポッター"
+bk_71e01e9903,Meditations (English Edition),Kindle Unlimited,book_or_ebook,"小説, 洋書",小説・文学,洋書;Kindle Unlimited;小説,low,en_or_mixed,structured_search,0,2020-10-03T06:58:00Z,"title: Meditations (English Edition)
+genre: 小説, 洋書
+primary_domain: 小説・文学
+tags: 洋書;Kindle Unlimited;小説"
+bk_4ff08b9072,これから学ぶJavaScript,Kindle Unlimited,book_or_ebook,"IT, プログラミング",IT・プログラミング,Kindle Unlimited;IT;クラウド運用;Web開発,medium,ja,rag_or_structured,0,2020-12-13T07:50:00Z,"title: これから学ぶJavaScript
+genre: IT, プログラミング
+primary_domain: IT・プログラミング
+tags: Kindle Unlimited;IT;クラウド運用;Web開発"
+bk_07986f7b17,The Walking Dead Vol. 1: Days Gone Bye (English Edition),Kindle Unlimited,book_or_ebook,"洋書, 小説",小説・文学,洋書;Kindle Unlimited;小説,low,en_or_mixed,structured_search,0,2020-10-06T11:58:00Z,"title: The Walking Dead Vol. 1: Days Gone Bye (English Edition)
+genre: 洋書, 小説
+primary_domain: 小説・文学
+tags: 洋書;Kindle Unlimited;小説"
+bk_26ffbe7c5e,Travels with My Aunt (English Edition),Kindle Unlimited,book_or_ebook,"小説, 洋書",小説・文学,洋書;Kindle Unlimited;小説,low,en_or_mixed,structured_search,0,2020-10-06T11:33:00Z,"title: Travels with My Aunt (English Edition)
+genre: 小説, 洋書
+primary_domain: 小説・文学
+tags: 洋書;Kindle Unlimited;小説"
+bk_b83f6e3257,ファンタスティック・ビーストと魔法使いの旅　〈映画オリジナル脚本版〉 ファンタスティック・ビースト (Fantastic Beasts),Kindle Unlimited,book_or_ebook,"洋書, 小説",小説・文学,洋書;Kindle Unlimited;小説;ハリー・ポッター,low,en_or_mixed,structured_search,0,2020-10-06T11:31:00Z,"title: ファンタスティック・ビーストと魔法使いの旅　〈映画オリジナル脚本版〉 ファンタスティック・ビースト (Fantastic Beasts)
+genre: 洋書, 小説
+primary_domain: 小説・文学
+tags: 洋書;Kindle Unlimited;小説;ハリー・ポッター"
+bk_4d633dc017,考具 考具シリーズ,Kindle,book_or_ebook,,その他,Kindle,low,ja,structured_search,108,2022-07-15T02:37:00Z,"title: 考具 考具シリーズ
+genre: 
+primary_domain: その他
+tags: Kindle"
+bk_50703b90ec,Colorless Tsukuru Tazaki and His Years of Pilgrimage: A novel (Vintage International) (English Edition),Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説;村上春樹,low,en_or_mixed,structured_search,100,2021-02-23T05:13:00Z,"title: Colorless Tsukuru Tazaki and His Years of Pilgrimage: A novel (Vintage International) (English Edition)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説;村上春樹"
+bk_e67fd7aa68,サステナビリティ時代の会社　21世紀のコーポレート・エコノミー,Kindle,book_or_ebook,,その他,Kindle,low,ja,structured_search,235,2024-09-29T16:23:00Z,"title: サステナビリティ時代の会社　21世紀のコーポレート・エコノミー
+genre: 
+primary_domain: その他
+tags: Kindle"
+bk_f5f2fd5319,Men Without Women: Stories (English Edition),Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説;村上春樹,low,en_or_mixed,structured_search,727,2021-02-08T14:30:00Z,"title: Men Without Women: Stories (English Edition)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説;村上春樹"
+bk_c9200bb9ae,ホーム・アローン (吹替版),Kindle,book_or_ebook,,小説・文学,Kindle;小説,low,ja,structured_search,181,2025-12-24T11:21:00Z,"title: ホーム・アローン (吹替版)
+genre: 
+primary_domain: 小説・文学
+tags: Kindle;小説"
+bk_5527d0c947,労働貴族 (講談社文庫),Kindle,book_or_ebook,,小説・文学,Kindle;小説,low,ja,structured_search,27,2024-12-18T10:14:00Z,"title: 労働貴族 (講談社文庫)
+genre: 
+primary_domain: 小説・文学
+tags: Kindle;小説"
+bk_5daaa9f4b0,Sword Art Online 14 (light novel): Alicization Uniting (English Edition),Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説,low,en_or_mixed,structured_search,84,2021-01-10T01:41:00Z,"title: Sword Art Online 14 (light novel): Alicization Uniting (English Edition)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説"
+bk_897999d025,20世紀アメリカの夢　世紀転換期から1970年代 シリーズ　アメリカ合衆国史 (岩波新書),Kindle,book_or_ebook,,歴史・国際関係・地政学,Kindle;歴史/国際関係,low,ja,structured_search,860,2025-01-02T12:22:00Z,"title: 20世紀アメリカの夢　世紀転換期から1970年代 シリーズ　アメリカ合衆国史 (岩波新書)
+genre: 
+primary_domain: 歴史・国際関係・地政学
+tags: Kindle;歴史/国際関係"
+bk_a5dc83055d,The Other Side of Midnight,Kindle,book_or_ebook,,その他,洋書;Kindle,low,en_or_mixed,structured_search,-3091,2021-09-17T15:12:00Z,"title: The Other Side of Midnight
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_45e3c45d49,トッカン 特別国税徴収官 (ハヤカワ文庫JA),Kindle,book_or_ebook,,小説・文学,Kindle;小説,low,ja,structured_search,380,2025-08-12T14:03:00Z,"title: トッカン 特別国税徴収官 (ハヤカワ文庫JA)
+genre: 
+primary_domain: 小説・文学
+tags: Kindle;小説"
+bk_536a33df70,都市経済学（第２版）＜プログレッシブ経済学シリーズ＞,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT;クラウド運用,medium,ja,rag_or_structured,2592,2024-09-29T16:06:00Z,"title: 都市経済学（第２版）＜プログレッシブ経済学シリーズ＞
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT;クラウド運用"
+bk_fce8765265,チームトポロジー　価値あるソフトウェアをすばやく届ける適応型組織設計,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT,low,ja,rag_or_structured,0,2025-09-01T09:42:00Z,"title: チームトポロジー　価値あるソフトウェアをすばやく届ける適応型組織設計
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT"
+bk_2845bf6e15,令和05年 イメージ＆クレバー方式でよくわかる 栢木先生の基本情報技術者教室 情報処理技術者試験,Kindle,book_or_ebook,,その他,Kindle,low,ja,structured_search,160,2023-08-30T10:21:00Z,"title: 令和05年 イメージ＆クレバー方式でよくわかる 栢木先生の基本情報技術者教室 情報処理技術者試験
+genre: 
+primary_domain: その他
+tags: Kindle"
+bk_9b54737e54,ほんの一手間で劇的に変わるHTML ＆ CSSとWebデザイン実践講座,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT;Web開発,low,ja,rag_or_structured,124,2023-12-28T02:28:00Z,"title: ほんの一手間で劇的に変わるHTML ＆ CSSとWebデザイン実践講座
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT;Web開発"
+bk_38f50b33b7,Where the Crawdads Sing,Kindle,book_or_ebook,,その他,洋書;Kindle,low,en_or_mixed,structured_search,-2164,2022-03-20T13:44:00Z,"title: Where the Crawdads Sing
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_54ff0ab1f9,The Penguin History of the World: 6th edition (English Edition),Kindle,book_or_ebook,,その他,洋書;Kindle,low,en_or_mixed,structured_search,1455,2024-08-21T13:02:00Z,"title: The Penguin History of the World: 6th edition (English Edition)
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_23d1418986,改訂版 技術系英文ライティング教本　―基本・英文法・応用―,Kindle,book_or_ebook,,英語・語学,Kindle;英語,low,ja,structured_search,181,2025-09-01T09:47:00Z,"title: 改訂版 技術系英文ライティング教本　―基本・英文法・応用―
+genre: 
+primary_domain: 英語・語学
+tags: Kindle;英語"
+bk_cb4e2e8530,心理的安全性のつくりかた　「心理的柔軟性」が困難を乗り越えるチームに変える,Kindle,book_or_ebook,,ビジネス・プロダクト・組織,Kindle;ビジネス;組織,low,ja,structured_search,0,2025-09-01T09:46:00Z,"title: 心理的安全性のつくりかた　「心理的柔軟性」が困難を乗り越えるチームに変える
+genre: 
+primary_domain: ビジネス・プロダクト・組織
+tags: Kindle;ビジネス;組織"
+bk_1b580239fe,"The Skincare Bible: Your essential guide to radiant, clear skin at any age from an expert dermatologist (English Edition)",Kindle,book_or_ebook,,その他,洋書;Kindle,low,en_or_mixed,structured_search,272,2024-09-14T06:06:00Z,"title: The Skincare Bible: Your essential guide to radiant, clear skin at any age from an expert dermatologist (English Edition)
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_6988cfb03f,次世代モビリティの経済学　マーケットデザインによる制度設計 (日本経済新聞出版),Kindle,book_or_ebook,,経済・金融,Kindle;経済,low,ja,structured_search,243,2023-10-02T12:04:00Z,"title: 次世代モビリティの経済学　マーケットデザインによる制度設計 (日本経済新聞出版)
+genre: 
+primary_domain: 経済・金融
+tags: Kindle;経済"
+bk_4d766d8c4d,"You Can't Escape (Revised Edition): Mystery, Thriller & Detective Pick (Picking the Wrong One Book 2) (English Edition)",Kindle,book_or_ebook,,その他,洋書;Kindle,low,en_or_mixed,structured_search,31,2021-11-22T05:41:00Z,"title: You Can't Escape (Revised Edition): Mystery, Thriller & Detective Pick (Picking the Wrong One Book 2) (English Edition)
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_c9139ae299,Sword Art Online 7 (light novel): Mother's Rosary (English Edition),Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説,low,en_or_mixed,structured_search,835,2021-01-08T02:01:00Z,"title: Sword Art Online 7 (light novel): Mother's Rosary (English Edition)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説"
+bk_2661e19834,Dance of the Happy Shades: And Other Stories (Vintage International) (English Edition),Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説,low,en_or_mixed,structured_search,109,2021-05-26T06:54:00Z,"title: Dance of the Happy Shades: And Other Stories (Vintage International) (English Edition)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説"
+bk_927ac605f6,A Wild Sheep Chase: A Novel (Trilogy of the Rat Book 3) (English Edition),Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説;村上春樹,low,en_or_mixed,structured_search,100,2021-02-24T02:23:00Z,"title: A Wild Sheep Chase: A Novel (Trilogy of the Rat Book 3) (English Edition)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説;村上春樹"
+bk_7223f75975,グローバル時代のアメリカ　冷戦時代から21世紀 シリーズ　アメリカ合衆国史 (岩波新書),Kindle,book_or_ebook,,歴史・国際関係・地政学,Kindle;歴史/国際関係,low,ja,structured_search,900,2025-01-02T12:22:00Z,"title: グローバル時代のアメリカ　冷戦時代から21世紀 シリーズ　アメリカ合衆国史 (岩波新書)
+genre: 
+primary_domain: 歴史・国際関係・地政学
+tags: Kindle;歴史/国際関係"
+bk_2aba23703d,Gone with the Wind (English Edition),Kindle,book_or_ebook,,その他,洋書;Kindle,low,en_or_mixed,structured_search,7,2021-01-09T17:46:00Z,"title: Gone with the Wind (English Edition)
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_4917f2baa2,Jack: Straight from the Gut (English Edition),Kindle,book_or_ebook,,AI・NLP・RAG,洋書;Kindle;AI;NLP,high,en_or_mixed,rag_or_structured,645,2025-01-14T06:39:00Z,"title: Jack: Straight from the Gut (English Edition)
+genre: 
+primary_domain: AI・NLP・RAG
+tags: 洋書;Kindle;AI;NLP"
+bk_122a7aa301,ストーリーとしての競争戦略 Hitotsubashi Business Review Books,Kindle,book_or_ebook,,ビジネス・プロダクト・組織,洋書;Kindle;ビジネス;組織,low,en_or_mixed,structured_search,2016,2025-01-06T13:46:00Z,"title: ストーリーとしての競争戦略 Hitotsubashi Business Review Books
+genre: 
+primary_domain: ビジネス・プロダクト・組織
+tags: 洋書;Kindle;ビジネス;組織"
+bk_3f7865024b,EMPOWERED 普通のチームが並外れた製品を生み出すプロダクトリーダーシップ,Kindle,book_or_ebook,,ビジネス・プロダクト・組織,洋書;Kindle;ビジネス;組織,low,en_or_mixed,structured_search,181,2025-09-01T09:58:00Z,"title: EMPOWERED 普通のチームが並外れた製品を生み出すプロダクトリーダーシップ
+genre: 
+primary_domain: ビジネス・プロダクト・組織
+tags: 洋書;Kindle;ビジネス;組織"
+bk_87c13f00d9,Pythonクローリング＆スクレイピング[増補改訂版] -データ収集・解析のための実践開発ガイド-,Kindle,book_or_ebook,,IT・プログラミング,洋書;Kindle;IT,low,en_or_mixed,rag_or_structured,312,2022-09-14T10:32:00Z,"title: Pythonクローリング＆スクレイピング[増補改訂版] -データ収集・解析のための実践開発ガイド-
+genre: 
+primary_domain: IT・プログラミング
+tags: 洋書;Kindle;IT"
+bk_c93fbc0fce,Kindle Unlimited,Kindle,digital_service_or_app,,その他,洋書;Kindle,low,en_or_mixed,structured_search,89,2021-03-04T16:20:00Z,"title: Kindle Unlimited
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_1f4cc07634,Sword Art Online 19 (light novel): Moon Cradle (English Edition),Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説,low,en_or_mixed,structured_search,89,2021-11-22T05:46:00Z,"title: Sword Art Online 19 (light novel): Moon Cradle (English Edition)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説"
+bk_cfafdce47a,人の健康は腸内細菌で決まる　-善玉菌と悪玉菌を科学する― 知りたい!サイエンス,Kindle,book_or_ebook,,社会・ノンフィクション,Kindle;社会/ノンフィクション,low,ja,structured_search,1548,2024-09-07T03:13:00Z,"title: 人の健康は腸内細菌で決まる　-善玉菌と悪玉菌を科学する― 知りたい!サイエンス
+genre: 
+primary_domain: 社会・ノンフィクション
+tags: Kindle;社会/ノンフィクション"
+bk_c13c57f5ab,単体テストの考え方/使い方,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT;テスト,low,ja,rag_or_structured,367,2026-01-22T08:54:00Z,"title: 単体テストの考え方/使い方
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT;テスト"
+bk_ca75cb8369,Crime and Punishment: The Original Unabridged And Complete Edition (A Fyodor Dostoevsky Classics) (English Edition),Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説,low,en_or_mixed,structured_search,0,2025-09-23T09:50:00Z,"title: Crime and Punishment: The Original Unabridged And Complete Edition (A Fyodor Dostoevsky Classics) (English Edition)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説"
+bk_932cfea12a,出る順で最短合格！英検(R)1級 語彙問題完全制覇[改訂版],Kindle,book_or_ebook,,英語・語学,Kindle;英語,low,ja,structured_search,1785,2021-05-14T13:46:00Z,"title: 出る順で最短合格！英検(R)1級 語彙問題完全制覇[改訂版]
+genre: 
+primary_domain: 英語・語学
+tags: Kindle;英語"
+bk_5be93f9398,経済数学の直観的方法　マクロ経済学編 (ブルーバックス),Kindle,book_or_ebook,,数学・数理,Kindle;数学,low,ja,structured_search,0,2025-09-13T10:31:00Z,"title: 経済数学の直観的方法　マクロ経済学編 (ブルーバックス)
+genre: 
+primary_domain: 数学・数理
+tags: Kindle;数学"
+bk_b34e84b52a,The Human Condition: Second Edition (English Edition),Kindle,book_or_ebook,,その他,洋書;Kindle,low,en_or_mixed,structured_search,180,2024-12-17T05:55:00Z,"title: The Human Condition: Second Edition (English Edition)
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_7caf7321cf,"How Global Currencies Work: Past, Present, and Future (English Edition)",Kindle,book_or_ebook,,その他,洋書;Kindle,low,en_or_mixed,structured_search,39,2025-09-29T10:02:00Z,"title: How Global Currencies Work: Past, Present, and Future (English Edition)
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_fab340b92a,いちばんやさしいGit&GitHubの教本 第3版 人気講師が教えるバージョン管理＆共有入門 「いちばんやさしい教本」シリーズ,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT,low,ja,rag_or_structured,1100,2025-11-29T12:22:00Z,"title: いちばんやさしいGit&GitHubの教本 第3版 人気講師が教えるバージョン管理＆共有入門 「いちばんやさしい教本」シリーズ
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT"
+bk_d8285eaca4,転職 (角川文庫),Kindle,book_or_ebook,,小説・文学,Kindle;小説;就活/キャリア,low,ja,structured_search,0,2025-08-12T14:07:00Z,"title: 転職 (角川文庫)
+genre: 
+primary_domain: 小説・文学
+tags: Kindle;小説;就活/キャリア"
+bk_cfe78422a0,The Other Side of Midnight: The master of the unexpected (English Edition),Kindle,book_or_ebook,,その他,洋書;Kindle,low,en_or_mixed,structured_search,518,2021-09-17T15:12:00Z,"title: The Other Side of Midnight: The master of the unexpected (English Edition)
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_8b3b1e3135,TOEFLテスト英単語3800 4訂版（音声ＤＬ付）,Kindle,book_or_ebook,,英語・語学,洋書;Kindle;英語;テスト,low,en_or_mixed,structured_search,190,2022-06-02T12:20:00Z,"title: TOEFLテスト英単語3800 4訂版（音声ＤＬ付）
+genre: 
+primary_domain: 英語・語学
+tags: 洋書;Kindle;英語;テスト"
+bk_14fafece39,総会屋錦城（新潮文庫）,Kindle,book_or_ebook,,小説・文学,Kindle;小説,low,ja,structured_search,576,2024-10-14T06:09:00Z,"title: 総会屋錦城（新潮文庫）
+genre: 
+primary_domain: 小説・文学
+tags: Kindle;小説"
+bk_5ec719ce1b,Sword Art Online 23 (light novel): Unital Ring II (English Edition),Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説,low,en_or_mixed,structured_search,1025,2021-11-22T05:47:00Z,"title: Sword Art Online 23 (light novel): Unital Ring II (English Edition)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説"
+bk_35f136b2d7,Sword Art Online 22 (light novel): Kiss and Fly (English Edition),Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説,low,en_or_mixed,structured_search,999,2021-11-22T05:47:00Z,"title: Sword Art Online 22 (light novel): Kiss and Fly (English Edition)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説"
+bk_8ee647d829,Sword Art Online 21 (light novel): Unital Ring I (English Edition),Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説,low,en_or_mixed,structured_search,100,2021-11-22T05:47:00Z,"title: Sword Art Online 21 (light novel): Unital Ring I (English Edition)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説"
+bk_ef24ac65c5,Killing Commendatore,Kindle,book_or_ebook,,その他,洋書;Kindle;村上春樹,low,en_or_mixed,structured_search,-3245,2022-03-20T13:37:00Z,"title: Killing Commendatore
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle;村上春樹"
+bk_88cb49437a,テキストエディタvimショートガイド,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT,low,ja,rag_or_structured,0,2025-08-12T14:10:00Z,"title: テキストエディタvimショートガイド
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT"
+bk_832fdea575,元彼の遺言状,Kindle,book_or_ebook,,小説・文学,Kindle;小説,low,ja,structured_search,0,2025-11-06T00:22:00Z,"title: 元彼の遺言状
+genre: 
+primary_domain: 小説・文学
+tags: Kindle;小説"
+bk_f26f0df620,Extraordinary Popular Delusions and the Madness of Crowds (English Edition),Kindle,book_or_ebook,,その他,洋書;Kindle,low,en_or_mixed,structured_search,0,2025-09-28T11:56:00Z,"title: Extraordinary Popular Delusions and the Madness of Crowds (English Edition)
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_53cc8b4216,Killing Commendatore: A novel (English Edition),Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説;村上春樹,low,en_or_mixed,structured_search,100,2021-01-02T04:12:00Z,"title: Killing Commendatore: A novel (English Edition)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説;村上春樹"
+bk_9bf0ad6412,YouTube,Kindle,digital_service_or_app,,その他,洋書;Kindle,low,en_or_mixed,structured_search,0,2023-06-18T12:03:00Z,"title: YouTube
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_be77470d7f,Audible会員,Kindle,digital_service_or_app,,その他,洋書;Kindle,low,en_or_mixed,structured_search,136,2021-07-26T09:22:00Z,"title: Audible会員
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_1733c06e40,Chip War: The Fight for the World's Most Critical Technology,Kindle,book_or_ebook,,歴史・国際関係・地政学,洋書;Kindle;歴史/国際関係,low,en_or_mixed,structured_search,0,2025-10-13T02:15:00Z,"title: Chip War: The Fight for the World's Most Critical Technology
+genre: 
+primary_domain: 歴史・国際関係・地政学
+tags: 洋書;Kindle;歴史/国際関係"
+bk_252996ff53,イタリア史10講 (岩波新書),Kindle,book_or_ebook,,歴史・国際関係・地政学,Kindle;歴史/国際関係,low,ja,structured_search,90,2025-01-03T08:20:00Z,"title: イタリア史10講 (岩波新書)
+genre: 
+primary_domain: 歴史・国際関係・地政学
+tags: Kindle;歴史/国際関係"
+bk_35e39e3e2d,"The New Map: Energy, Climate, and the Clash of Nations (English Edition)",Kindle,book_or_ebook,,歴史・国際関係・地政学,洋書;Kindle;歴史/国際関係,low,en_or_mixed,structured_search,1091,2024-08-10T04:01:00Z,"title: The New Map: Energy, Climate, and the Clash of Nations (English Edition)
+genre: 
+primary_domain: 歴史・国際関係・地政学
+tags: 洋書;Kindle;歴史/国際関係"
+bk_4e9aaa7be1,TVer(ティーバー) 民放公式テレビ配信サービス,Kindle,digital_service_or_app,,その他,洋書;Kindle,low,en_or_mixed,structured_search,0,2023-06-18T12:02:00Z,"title: TVer(ティーバー) 民放公式テレビ配信サービス
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_781ab76ab4,Twitch,Kindle,digital_service_or_app,,その他,洋書;Kindle,low,en_or_mixed,structured_search,0,2023-06-18T12:02:00Z,"title: Twitch
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_c1557e1006,ABEMA,Kindle,digital_service_or_app,,その他,洋書;Kindle,low,en_or_mixed,structured_search,0,2023-06-18T12:02:00Z,"title: ABEMA
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_d22e649418,「会社四季報」業界地図 2023年版,Kindle,book_or_ebook,,経済・金融,Kindle;経済,low,ja,structured_search,1170,2023-06-05T00:42:00Z,"title: 「会社四季報」業界地図 2023年版
+genre: 
+primary_domain: 経済・金融
+tags: Kindle;経済"
+bk_839fb7f746,ドイツ史10講 (岩波新書),Kindle,book_or_ebook,,歴史・国際関係・地政学,Kindle;歴史/国際関係,low,ja,structured_search,820,2025-01-03T08:18:00Z,"title: ドイツ史10講 (岩波新書)
+genre: 
+primary_domain: 歴史・国際関係・地政学
+tags: Kindle;歴史/国際関係"
+bk_75b6253968,"Blind Willow, Sleeping Woman: Stories (Vintage International) (English Edition)",Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説;村上春樹,low,en_or_mixed,structured_search,780,2021-02-21T10:34:00Z,"title: Blind Willow, Sleeping Woman: Stories (Vintage International) (English Edition)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説;村上春樹"
+bk_ca50bebe75,Kafka on the Shore (Vintage International) (English Edition),Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説;村上春樹,low,en_or_mixed,structured_search,801,2021-02-19T04:44:00Z,"title: Kafka on the Shore (Vintage International) (English Edition)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説;村上春樹"
+bk_6d920b3cfa,Sword Art Online 1: Aincrad (light novel),Kindle,book_or_ebook,,AI・NLP・RAG,洋書;Kindle;AI;NLP,high,en_or_mixed,rag_or_structured,707,2020-12-31T16:36:00Z,"title: Sword Art Online 1: Aincrad (light novel)
+genre: 
+primary_domain: AI・NLP・RAG
+tags: 洋書;Kindle;AI;NLP"
+bk_660384ff3e,Ｍ 愛すべき人がいて (幻冬舎文庫),Kindle,book_or_ebook,,小説・文学,Kindle;小説,low,ja,structured_search,0,2025-09-13T01:39:00Z,"title: Ｍ 愛すべき人がいて (幻冬舎文庫)
+genre: 
+primary_domain: 小説・文学
+tags: Kindle;小説"
+bk_bf0a58e477,新しいシェルプログラミングの教科書,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT;クラウド運用,medium,ja,rag_or_structured,2430,2022-10-03T09:43:00Z,"title: 新しいシェルプログラミングの教科書
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT;クラウド運用"
+bk_db7481861b,Orientalism (English Edition),Kindle,book_or_ebook,,歴史・国際関係・地政学,洋書;Kindle;歴史/国際関係,low,en_or_mixed,structured_search,1727,2024-12-23T05:12:00Z,"title: Orientalism (English Edition)
+genre: 
+primary_domain: 歴史・国際関係・地政学
+tags: 洋書;Kindle;歴史/国際関係"
+bk_a346244051,これが本当のＳＰＩ３だ！　２０２７年度版　【主要３方式〈テストセンター・ペーパーテスト・ＷＥＢテスティング〉対応】 (本当の就職テスト),Kindle,book_or_ebook,,その他,Kindle;テスト,low,ja,structured_search,1500,2025-06-06T00:20:00Z,"title: これが本当のＳＰＩ３だ！　２０２７年度版　【主要３方式〈テストセンター・ペーパーテスト・ＷＥＢテスティング〉対応】 (本当の就職テスト)
+genre: 
+primary_domain: その他
+tags: Kindle;テスト"
+bk_c7f4f6736f,イギリス近代史講義 (講談社現代新書),Kindle,book_or_ebook,,歴史・国際関係・地政学,Kindle;歴史/国際関係,low,ja,structured_search,62,2025-01-03T08:59:00Z,"title: イギリス近代史講義 (講談社現代新書)
+genre: 
+primary_domain: 歴史・国際関係・地政学
+tags: Kindle;歴史/国際関係"
+bk_6aac50ae07,Moll Flanders - Daniel Defoe [Illustrated] (Bentley Loft Classics) (English Edition),Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説,low,en_or_mixed,structured_search,144,2021-04-18T13:29:00Z,"title: Moll Flanders - Daniel Defoe [Illustrated] (Bentley Loft Classics) (English Edition)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説"
+bk_5f69a8f330,社会変革のためのシステム思考実践ガイド――共に解決策を見出し、コレクティブ・インパクトを創造する,Kindle,book_or_ebook,,社会・ノンフィクション,Kindle;社会/ノンフィクション,low,ja,structured_search,1800,2025-01-26T11:02:00Z,"title: 社会変革のためのシステム思考実践ガイド――共に解決策を見出し、コレクティブ・インパクトを創造する
+genre: 
+primary_domain: 社会・ノンフィクション
+tags: Kindle;社会/ノンフィクション"
+bk_af57818a9a,INSPIRED 熱狂させる製品を生み出すプロダクトマネジメント,Kindle,book_or_ebook,,ビジネス・プロダクト・組織,洋書;Kindle;ビジネス;組織;就活/キャリア,low,en_or_mixed,structured_search,0,2025-09-01T09:58:00Z,"title: INSPIRED 熱狂させる製品を生み出すプロダクトマネジメント
+genre: 
+primary_domain: ビジネス・プロダクト・組織
+tags: 洋書;Kindle;ビジネス;組織;就活/キャリア"
+bk_a5abd6c553,Norwegian Wood (Vintage International) (English Edition),Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説;村上春樹,low,en_or_mixed,structured_search,78,2021-02-05T15:39:00Z,"title: Norwegian Wood (Vintage International) (English Edition)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説;村上春樹"
+bk_923d5d3459,入門・証券投資論 有斐閣ブックス,Kindle,book_or_ebook,,経済・金融,Kindle;経済;金融システム,low,ja,structured_search,333,2025-09-06T08:05:00Z,"title: 入門・証券投資論 有斐閣ブックス
+genre: 
+primary_domain: 経済・金融
+tags: Kindle;経済;金融システム"
+bk_ef63377d7a,プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT;クラウド運用,medium,ja,rag_or_structured,178,2024-02-10T16:14:00Z,"title: プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT;クラウド運用"
+bk_111c0ee365,看護・医療系の小論文　最強独学問題集,Kindle,book_or_ebook,,その他,Kindle;就活/キャリア,low,ja,structured_search,0,2025-09-04T03:35:00Z,"title: 看護・医療系の小論文　最強独学問題集
+genre: 
+primary_domain: その他
+tags: Kindle;就活/キャリア"
+bk_200d9d3e23,南北戦争の時代　19世紀 シリーズ　アメリカ合衆国史 (岩波新書),Kindle,book_or_ebook,,歴史・国際関係・地政学,Kindle;歴史/国際関係,low,ja,structured_search,84,2025-01-02T12:22:00Z,"title: 南北戦争の時代　19世紀 シリーズ　アメリカ合衆国史 (岩波新書)
+genre: 
+primary_domain: 歴史・国際関係・地政学
+tags: Kindle;歴史/国際関係"
+bk_45775e7cfd,アジャイル型プロジェクトマネジメント,Kindle,book_or_ebook,,ビジネス・プロダクト・組織,Kindle;ビジネス;組織,low,ja,structured_search,181,2025-09-01T09:48:00Z,"title: アジャイル型プロジェクトマネジメント
+genre: 
+primary_domain: ビジネス・プロダクト・組織
+tags: Kindle;ビジネス;組織"
+bk_081c8c442f,Spring徹底入門 第2版 Spring FrameworkによるJavaアプリケーション開発,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT;Web開発,low,ja,rag_or_structured,215,2026-05-09T08:29:00Z,"title: Spring徹底入門 第2版 Spring FrameworkによるJavaアプリケーション開発
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT;Web開発"
+bk_18bb9cdf28,イギリス史10講 (岩波新書),Kindle,book_or_ebook,,歴史・国際関係・地政学,Kindle;歴史/国際関係,low,ja,structured_search,900,2025-01-03T08:18:00Z,"title: イギリス史10講 (岩波新書)
+genre: 
+primary_domain: 歴史・国際関係・地政学
+tags: Kindle;歴史/国際関係"
+bk_7515dffbd8,Linuxとpthreadsによる マルチスレッドプログラミング入門,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT;クラウド運用,medium,ja,rag_or_structured,1080,2024-02-14T08:11:00Z,"title: Linuxとpthreadsによる マルチスレッドプログラミング入門
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT;クラウド運用"
+bk_3d2d115488,Amazon Bedrock 生成AIアプリ開発入門 ［AWS深掘りガイド］,Kindle,book_or_ebook,,AI・NLP・RAG,Kindle;AI;NLP;RAG候補,high,ja,rag_or_structured,0,2026-05-01T22:50:00Z,"title: Amazon Bedrock 生成AIアプリ開発入門 ［AWS深掘りガイド］
+genre: 
+primary_domain: AI・NLP・RAG
+tags: Kindle;AI;NLP;RAG候補"
+bk_d6f44d5b95,1Q84 (Vintage International) (English Edition),Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説;村上春樹,low,en_or_mixed,structured_search,800,2021-02-11T07:55:00Z,"title: 1Q84 (Vintage International) (English Edition)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説;村上春樹"
+bk_fb3240f972,Sapiens,Kindle,book_or_ebook,,その他,洋書;Kindle,low,en_or_mixed,structured_search,-267,2022-03-20T13:45:00Z,"title: Sapiens
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_4f466012f9,達人に学ぶDB設計 徹底指南書,Kindle,book_or_ebook,,データベース・SQL,Kindle;DB;SQL,medium,ja,rag_or_structured,2548,2023-12-27T19:01:00Z,"title: 達人に学ぶDB設計 徹底指南書
+genre: 
+primary_domain: データベース・SQL
+tags: Kindle;DB;SQL"
+bk_c00880a239,1日1問、半年以内に習得　シェル・ワンライナー160本ノック Software Design plus,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT,low,ja,rag_or_structured,314,2023-12-27T16:00:00Z,"title: 1日1問、半年以内に習得　シェル・ワンライナー160本ノック Software Design plus
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT"
+bk_ebff3878a8,Webを支える技術 ―― HTTP，URI，HTML，そしてREST WEB+DB PRESS plus,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT;ネットワーク;Web開発,medium,ja,rag_or_structured,2442,2022-09-06T20:07:00Z,"title: Webを支える技術 ―― HTTP，URI，HTML，そしてREST WEB+DB PRESS plus
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT;ネットワーク;Web開発"
+bk_f16cc13f9a,やさしいMCP入門,Kindle,book_or_ebook,,AI・NLP・RAG,Kindle;AI;NLP;RAG候補,high,ja,rag_or_structured,0,2026-05-01T22:50:00Z,"title: やさしいMCP入門
+genre: 
+primary_domain: AI・NLP・RAG
+tags: Kindle;AI;NLP;RAG候補"
+bk_657e6941c1,ソフトウェアファースト第２版　あらゆるビジネスを一変させる最強戦略,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT,low,ja,rag_or_structured,1980,2025-06-30T11:54:00Z,"title: ソフトウェアファースト第２版　あらゆるビジネスを一変させる最強戦略
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT"
+bk_a2b832bc5b,世紀の空売り　世界経済の破綻に賭けた男たち (文春文庫),Kindle,book_or_ebook,,経済・金融,Kindle;経済,low,ja,structured_search,0,2025-09-17T09:19:00Z,"title: 世紀の空売り　世界経済の破綻に賭けた男たち (文春文庫)
+genre: 
+primary_domain: 経済・金融
+tags: Kindle;経済"
+bk_07e3eb45ee,正規表現スーパーショートリファレンス,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT,low,ja,rag_or_structured,0,2025-08-12T14:11:00Z,"title: 正規表現スーパーショートリファレンス
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT"
+bk_eeab38626e,One Hundred Years of Solitude,Kindle,book_or_ebook,,その他,洋書;Kindle,low,en_or_mixed,structured_search,-3545,2021-05-03T15:27:00Z,"title: One Hundred Years of Solitude
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_8a5d81a10b,BERTによる自然言語処理入門 ―Transformersを使った実践プログラミング―,Kindle,book_or_ebook,,AI・NLP・RAG,Kindle;AI;NLP;RAG候補;クラウド運用,high,ja,rag_or_structured,243,2023-07-10T05:07:00Z,"title: BERTによる自然言語処理入門 ―Transformersを使った実践プログラミング―
+genre: 
+primary_domain: AI・NLP・RAG
+tags: Kindle;AI;NLP;RAG候補;クラウド運用"
+bk_0ee21e940e,ゲーム理論とマッチング (日本経済新聞出版),Kindle,book_or_ebook,,経済・金融,Kindle;経済,low,ja,structured_search,81,2024-12-19T07:04:00Z,"title: ゲーム理論とマッチング (日本経済新聞出版)
+genre: 
+primary_domain: 経済・金融
+tags: Kindle;経済"
+bk_579fef53b0,初学の編集者がわかるまで書き直した　基礎から鍛える量子力学　基本の数理から現実の物理まで一歩一歩,Kindle,book_or_ebook,,数学・数理,Kindle;数学,low,ja,structured_search,181,2025-09-01T09:39:00Z,"title: 初学の編集者がわかるまで書き直した　基礎から鍛える量子力学　基本の数理から現実の物理まで一歩一歩
+genre: 
+primary_domain: 数学・数理
+tags: Kindle;数学"
+bk_db4e377e4b,改訂版 究極の英単語Vol. 4 超上級の3000語［新SVL対応］[音声DL付] 究極シリーズ,Kindle,book_or_ebook,,英語・語学,Kindle;英語,low,ja,structured_search,180,2024-08-02T04:13:00Z,"title: 改訂版 究極の英単語Vol. 4 超上級の3000語［新SVL対応］[音声DL付] 究極シリーズ
+genre: 
+primary_domain: 英語・語学
+tags: Kindle;英語"
+bk_8303d0ea20,忙しいママでもできる！　私立小学校を受験しようと思ったら読む本,Kindle,book_or_ebook,,その他,Kindle,low,ja,structured_search,18,2025-09-01T09:58:00Z,"title: 忙しいママでもできる！　私立小学校を受験しようと思ったら読む本
+genre: 
+primary_domain: その他
+tags: Kindle"
+bk_4dbcb243e2,仕事と人生を変える 勝間家電,Kindle,book_or_ebook,,その他,Kindle,low,ja,structured_search,153,2026-02-16T08:07:00Z,"title: 仕事と人生を変える 勝間家電
+genre: 
+primary_domain: その他
+tags: Kindle"
+bk_c7b0c3ba9a,達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ,Kindle,book_or_ebook,,データベース・SQL,Kindle;DB;SQL,medium,ja,rag_or_structured,1250,2023-12-23T16:02:00Z,"title: 達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ
+genre: 
+primary_domain: データベース・SQL
+tags: Kindle;DB;SQL"
+bk_fb13968e2d,jQuery入門道場,Kindle,book_or_ebook,,IT・プログラミング,洋書;Kindle;IT,low,en_or_mixed,rag_or_structured,77,2022-08-24T06:18:00Z,"title: jQuery入門道場
+genre: 
+primary_domain: IT・プログラミング
+tags: 洋書;Kindle;IT"
+bk_457bc49f43,The Rise and Fall of the Neoliberal Order: America and the World in the Free Market Era (English Edition),Kindle,book_or_ebook,,その他,洋書;Kindle,low,en_or_mixed,structured_search,2171,2025-01-31T06:11:00Z,"title: The Rise and Fall of the Neoliberal Order: America and the World in the Free Market Era (English Edition)
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_d181043553,Networks (English Edition),Kindle,book_or_ebook,,その他,洋書;Kindle,low,en_or_mixed,structured_search,6532,2025-05-23T13:07:00Z,"title: Networks (English Edition)
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_7655654901,The Wisdom of Crowds (English Edition),Kindle,book_or_ebook,,その他,洋書;Kindle,low,en_or_mixed,structured_search,113,2025-09-10T10:51:00Z,"title: The Wisdom of Crowds (English Edition)
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_adedd52bfa,Audible Gold 1-Month Free-Trial Membership ASIN,Kindle,digital_service_or_app,,その他,洋書;Kindle,low,en_or_mixed,structured_search,0,2021-02-24T09:19:00Z,"title: Audible Gold 1-Month Free-Trial Membership ASIN
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_25b12fda97,SQL 第2版 ゼロからはじめるデータベース操作,Kindle,book_or_ebook,,データベース・SQL,Kindle;DB;SQL,medium,ja,rag_or_structured,940,2023-12-23T15:50:00Z,"title: SQL 第2版 ゼロからはじめるデータベース操作
+genre: 
+primary_domain: データベース・SQL
+tags: Kindle;DB;SQL"
+bk_f8ce81e2c1,経済学史---経済理論誕生の経緯をたどる,Kindle,book_or_ebook,,経済・金融,Kindle;経済,low,ja,structured_search,265,2025-01-02T11:57:00Z,"title: 経済学史---経済理論誕生の経緯をたどる
+genre: 
+primary_domain: 経済・金融
+tags: Kindle;経済"
+bk_aaea788d30,ベーシックサービス　～「貯蓄ゼロでも不安ゼロ」の社会～（小学館新書）,Kindle,book_or_ebook,,その他,Kindle,low,ja,structured_search,960,2025-01-03T08:12:00Z,"title: ベーシックサービス　～「貯蓄ゼロでも不安ゼロ」の社会～（小学館新書）
+genre: 
+primary_domain: その他
+tags: Kindle"
+bk_3bafd7bb30,DXビジネス検定™公式テキスト,Kindle,book_or_ebook,,ビジネス・プロダクト・組織,Kindle;ビジネス;組織,low,ja,structured_search,0,2025-09-01T09:41:00Z,"title: DXビジネス検定™公式テキスト
+genre: 
+primary_domain: ビジネス・プロダクト・組織
+tags: Kindle;ビジネス;組織"
+bk_11475dea7f,The Wind-Up Bird Chronicle: A Novel,Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説;村上春樹,low,en_or_mixed,structured_search,-500,2021-02-24T09:28:00Z,"title: The Wind-Up Bird Chronicle: A Novel
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説;村上春樹"
+bk_babb73a155,Live2Dの教科書　静止画イラストからつくる本格アニメーション,Kindle,book_or_ebook,,デザイン・クリエイティブ,洋書;Kindle;デザイン,low,en_or_mixed,structured_search,0,2025-05-23T06:50:00Z,"title: Live2Dの教科書　静止画イラストからつくる本格アニメーション
+genre: 
+primary_domain: デザイン・クリエイティブ
+tags: 洋書;Kindle;デザイン"
+bk_643aa6e5d0,不撓不屈 (角川文庫),Kindle,book_or_ebook,,小説・文学,Kindle;小説,low,ja,structured_search,76,2025-06-14T00:06:00Z,"title: 不撓不屈 (角川文庫)
+genre: 
+primary_domain: 小説・文学
+tags: Kindle;小説"
+bk_3e991c7e70,"The Loudest Voice in the Room: How the Brilliant, Bombastic Roger Ailes Built Fox News--and Divided a Country (English Edition)",Kindle,book_or_ebook,,AI・NLP・RAG,洋書;Kindle;AI;NLP,high,en_or_mixed,rag_or_structured,956,2025-01-31T06:19:00Z,"title: The Loudest Voice in the Room: How the Brilliant, Bombastic Roger Ailes Built Fox News--and Divided a Country (English Edition)
+genre: 
+primary_domain: AI・NLP・RAG
+tags: 洋書;Kindle;AI;NLP"
+bk_209f6a4d7f,雨にも負けず　ITベンチャー奮闘記 (角川文庫),Kindle,book_or_ebook,,小説・文学,Kindle;小説,low,ja,structured_search,0,2025-08-12T14:00:00Z,"title: 雨にも負けず　ITベンチャー奮闘記 (角川文庫)
+genre: 
+primary_domain: 小説・文学
+tags: Kindle;小説"
+bk_83d44c49fc,スペイン史10講 (岩波新書),Kindle,book_or_ebook,,歴史・国際関係・地政学,Kindle;歴史/国際関係,low,ja,structured_search,94,2025-01-03T08:19:00Z,"title: スペイン史10講 (岩波新書)
+genre: 
+primary_domain: 歴史・国際関係・地政学
+tags: Kindle;歴史/国際関係"
+bk_55b8a1f10f,1冊ですべて身につくHTML ＆ CSSとWebデザイン入門講座,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT;Web開発,low,ja,rag_or_structured,221,2023-12-28T15:19:00Z,"title: 1冊ですべて身につくHTML ＆ CSSとWebデザイン入門講座
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT;Web開発"
+bk_57fd503530,ミクロ経済学の力,Kindle,book_or_ebook,,経済・金融,Kindle;経済,low,ja,structured_search,2500,2023-01-23T04:23:00Z,"title: ミクロ経済学の力
+genre: 
+primary_domain: 経済・金融
+tags: Kindle;経済"
+bk_cbf2f0131d,本当のデザインの話をしようか。 (NewsPicks Select),Kindle,book_or_ebook,,デザイン・クリエイティブ,洋書;Kindle;デザイン;就活/キャリア,low,en_or_mixed,structured_search,454,2025-09-30T14:12:00Z,"title: 本当のデザインの話をしようか。 (NewsPicks Select)
+genre: 
+primary_domain: デザイン・クリエイティブ
+tags: 洋書;Kindle;デザイン;就活/キャリア"
+bk_42897a60b4,植民地から建国へ　19世紀初頭まで シリーズ　アメリカ合衆国史 (岩波新書),Kindle,book_or_ebook,,歴史・国際関係・地政学,Kindle;歴史/国際関係,low,ja,structured_search,840,2025-01-02T12:21:00Z,"title: 植民地から建国へ　19世紀初頭まで シリーズ　アメリカ合衆国史 (岩波新書)
+genre: 
+primary_domain: 歴史・国際関係・地政学
+tags: Kindle;歴史/国際関係"
+bk_5bcb627ba1,Kindle for PC (Windows) [ダウンロード],Kindle,digital_service_or_app,,その他,洋書;Kindle,low,en_or_mixed,structured_search,0,2020-05-13T11:18:00Z,"title: Kindle for PC (Windows) [ダウンロード]
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_929642573d,The Wind-Up Bird Chronicle: A Novel (Vintage International) (English Edition),Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説;村上春樹,low,en_or_mixed,structured_search,1091,2021-05-03T14:32:00Z,"title: The Wind-Up Bird Chronicle: A Novel (Vintage International) (English Edition)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説;村上春樹"
+bk_cfbc7cc2b9,どくとるマンボウ青春記（新潮文庫）,Kindle,book_or_ebook,,小説・文学,Kindle;小説,low,ja,structured_search,0,2025-09-17T09:10:00Z,"title: どくとるマンボウ青春記（新潮文庫）
+genre: 
+primary_domain: 小説・文学
+tags: Kindle;小説"
+bk_21b664b50e,Web制作者のためのCSS設計の教科書 モダンWeb開発に欠かせない「修正しやすいCSS」の設計手法 Web制作者のための教科書シリーズ,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT;Web開発,low,ja,rag_or_structured,1710,2023-11-20T07:43:00Z,"title: Web制作者のためのCSS設計の教科書 モダンWeb開発に欠かせない「修正しやすいCSS」の設計手法 Web制作者のための教科書シリーズ
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT;Web開発"
+bk_3df0403ee2,シャノンの情報理論入門　価値ある情報を高速に、正確に送る (ブルーバックス),Kindle,book_or_ebook,,数学・数理,Kindle;数学,low,ja,structured_search,900,2025-09-01T09:29:00Z,"title: シャノンの情報理論入門　価値ある情報を高速に、正確に送る (ブルーバックス)
+genre: 
+primary_domain: 数学・数理
+tags: Kindle;数学"
+bk_9c6358dab4,Docker実践ガイド 第3版 impress top gearシリーズ,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT;クラウド運用,low,ja,rag_or_structured,342,2023-12-28T02:28:00Z,"title: Docker実践ガイド 第3版 impress top gearシリーズ
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT;クラウド運用"
+bk_38d67b7e43,シスコ技術者認定教科書 CCNA 完全合格テキスト＆問題集［対応試験］200 -301,Kindle,book_or_ebook,,その他,Kindle;ネットワーク,low,ja,structured_search,0,2025-04-06T08:14:00Z,"title: シスコ技術者認定教科書 CCNA 完全合格テキスト＆問題集［対応試験］200 -301
+genre: 
+primary_domain: その他
+tags: Kindle;ネットワーク"
+bk_e0fbbed07a,実践・自然言語処理シリーズ2　形態素解析の理論と実装,Kindle,book_or_ebook,,AI・NLP・RAG,Kindle;AI;NLP;RAG候補,high,ja,rag_or_structured,315,2022-06-08T07:04:00Z,"title: 実践・自然言語処理シリーズ2　形態素解析の理論と実装
+genre: 
+primary_domain: AI・NLP・RAG
+tags: Kindle;AI;NLP;RAG候補"
+bk_6ef459e022,"The Three-Body Problem Series: The Three-Body Problem, The Dark Forest, Death's End (English Edition)",Kindle,book_or_ebook,,IT・プログラミング,洋書;Kindle;IT;ネットワーク,medium,en_or_mixed,rag_or_structured,3091,2024-05-03T12:15:00Z,"title: The Three-Body Problem Series: The Three-Body Problem, The Dark Forest, Death's End (English Edition)
+genre: 
+primary_domain: IT・プログラミング
+tags: 洋書;Kindle;IT;ネットワーク"
+bk_da84096adb,日本統計学会公式認定 統計検定データサイエンス基礎対応　データアナリティクス基礎,Kindle,book_or_ebook,,統計・データ分析,Kindle;統計;データ分析;統計検定,low,ja,rag_or_structured,0,2025-09-01T09:40:00Z,"title: 日本統計学会公式認定 統計検定データサイエンス基礎対応　データアナリティクス基礎
+genre: 
+primary_domain: 統計・データ分析
+tags: Kindle;統計;データ分析;統計検定"
+bk_d8b7fefcab,"The Prize: The Epic Quest for Oil, Money & Power (English Edition)",Kindle,book_or_ebook,,歴史・国際関係・地政学,洋書;Kindle;歴史/国際関係,low,en_or_mixed,structured_search,2364,2024-10-23T03:08:00Z,"title: The Prize: The Epic Quest for Oil, Money & Power (English Edition)
+genre: 
+primary_domain: 歴史・国際関係・地政学
+tags: 洋書;Kindle;歴史/国際関係"
+bk_ec0db81f9d,Trump: The Art of the Deal (English Edition),Kindle,book_or_ebook,,その他,洋書;Kindle,low,en_or_mixed,structured_search,1091,2025-02-08T17:08:00Z,"title: Trump: The Art of the Deal (English Edition)
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_943de3cf0c,船中八策,Kindle,book_or_ebook,,その他,Kindle,low,ja,structured_search,0,2020-05-22T13:40:00Z,"title: 船中八策
+genre: 
+primary_domain: その他
+tags: Kindle"
+bk_0fbac74ad6,プログラミングコンテストチャレンジブック [第2版]　～問題解決のアルゴリズム活用力とコーディングテクニックを鍛える～,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT;クラウド運用;テスト,medium,ja,rag_or_structured,2401,2023-11-09T00:29:00Z,"title: プログラミングコンテストチャレンジブック [第2版]　～問題解決のアルゴリズム活用力とコーディングテクニックを鍛える～
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT;クラウド運用;テスト"
+bk_3e7691ff35,官僚たちの夏（新潮文庫）,Kindle,book_or_ebook,,小説・文学,Kindle;小説,low,ja,structured_search,71,2025-11-10T01:35:00Z,"title: 官僚たちの夏（新潮文庫）
+genre: 
+primary_domain: 小説・文学
+tags: Kindle;小説"
+bk_a79045743a,Java言語で学ぶデザインパターン入門第3版,Kindle,book_or_ebook,,IT・プログラミング,洋書;Kindle;IT,low,en_or_mixed,rag_or_structured,1950,2026-03-26T11:38:00Z,"title: Java言語で学ぶデザインパターン入門第3版
+genre: 
+primary_domain: IT・プログラミング
+tags: 洋書;Kindle;IT"
+bk_6921b8c07f,ＬＯＶＥＤ　市場を形づくり製品を定着に導くプロダクトマーケティング,Kindle,book_or_ebook,,ビジネス・プロダクト・組織,Kindle;ビジネス;組織,low,ja,structured_search,181,2025-09-01T09:59:00Z,"title: ＬＯＶＥＤ　市場を形づくり製品を定着に導くプロダクトマーケティング
+genre: 
+primary_domain: ビジネス・プロダクト・組織
+tags: Kindle;ビジネス;組織"
+bk_7f95b84426,One Hundred Years of Solitude (English Edition),Kindle,book_or_ebook,,その他,洋書;Kindle,low,en_or_mixed,structured_search,909,2021-04-26T10:39:00Z,"title: One Hundred Years of Solitude (English Edition)
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_c4af37a58f,2025年版 らくらく宅建塾 [基本テキスト]（宅地建物取引士/宅建士） らくらく宅建塾シリーズ/2025年版,Kindle,book_or_ebook,,法律・会計・資格,Kindle;法律/会計/資格,low,ja,structured_search,227,2025-08-08T15:33:00Z,"title: 2025年版 らくらく宅建塾 [基本テキスト]（宅地建物取引士/宅建士） らくらく宅建塾シリーズ/2025年版
+genre: 
+primary_domain: 法律・会計・資格
+tags: Kindle;法律/会計/資格"
+bk_f6b8aca1a9,Sword Art Online 20 (light novel): Moon Cradle (English Edition),Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説,low,en_or_mixed,structured_search,888,2021-11-22T05:47:00Z,"title: Sword Art Online 20 (light novel): Moon Cradle (English Edition)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説"
+bk_6cdf1c54d4,一次元の挿し木 (宝島社文庫),Kindle,book_or_ebook,,小説・文学,Kindle;小説,low,ja,structured_search,74,2025-09-20T05:18:00Z,"title: 一次元の挿し木 (宝島社文庫)
+genre: 
+primary_domain: 小説・文学
+tags: Kindle;小説"
+bk_29b85090ba,改訂新版 これからはじめるReact実践入門　コンポーネントの基本からNext.jsによるアプリ開発まで,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT;Web開発,low,ja,rag_or_structured,365,2026-05-01T22:51:00Z,"title: 改訂新版 これからはじめるReact実践入門　コンポーネントの基本からNext.jsによるアプリ開発まで
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT;Web開発"
+bk_2b74169c27,ゼロ・トゥ・ワン　君はゼロから何を生み出せるか,Kindle,book_or_ebook,,その他,Kindle,low,ja,structured_search,115,2026-01-27T03:59:00Z,"title: ゼロ・トゥ・ワン　君はゼロから何を生み出せるか
+genre: 
+primary_domain: その他
+tags: Kindle"
+bk_9f65936447,実務で役立つ ログの教科書 基礎知識から収集方法・分析手法・トラブルシューティング・パフォーマンス最適化・機械学習での活用まで,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT;クラウド運用,medium,ja,rag_or_structured,1190,2026-05-01T22:48:00Z,"title: 実務で役立つ ログの教科書 基礎知識から収集方法・分析手法・トラブルシューティング・パフォーマンス最適化・機械学習での活用まで
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT;クラウド運用"
+bk_395cceb7ac,マスタリングTCP/IP　入門編（第6版）,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT;ネットワーク,low,ja,rag_or_structured,198,2023-12-18T08:14:00Z,"title: マスタリングTCP/IP　入門編（第6版）
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT;ネットワーク"
+bk_77ce91e4d2,ポストモダン建築巡礼,Kindle,book_or_ebook,,デザイン・クリエイティブ,Kindle;デザイン,low,ja,structured_search,220,2023-01-17T04:07:00Z,"title: ポストモダン建築巡礼
+genre: 
+primary_domain: デザイン・クリエイティブ
+tags: Kindle;デザイン"
+bk_83b0563b67,ユーザーの問題解決とプロダクトの成功を導く　エンジニアのためのドキュメントライティング,Kindle,book_or_ebook,,ビジネス・プロダクト・組織,Kindle;ビジネス;組織,low,ja,structured_search,181,2025-09-01T09:50:00Z,"title: ユーザーの問題解決とプロダクトの成功を導く　エンジニアのためのドキュメントライティング
+genre: 
+primary_domain: ビジネス・プロダクト・組織
+tags: Kindle;ビジネス;組織"
+bk_a4d2d9d22e,改訂７版 PMプロジェクトマネジメント,Kindle,book_or_ebook,,ビジネス・プロダクト・組織,Kindle;ビジネス;組織,low,ja,structured_search,0,2025-09-01T09:51:00Z,"title: 改訂７版 PMプロジェクトマネジメント
+genre: 
+primary_domain: ビジネス・プロダクト・組織
+tags: Kindle;ビジネス;組織"
+bk_d864d209cc,あえて答えを出さず、そこに踏みとどまる力 — 保留状態維持力　対人支援に活かす ネガティブ・ケイパビリティ,Kindle,book_or_ebook,,社会・ノンフィクション,Kindle;社会/ノンフィクション,low,ja,structured_search,0,2025-09-01T09:44:00Z,"title: あえて答えを出さず、そこに踏みとどまる力 — 保留状態維持力　対人支援に活かす ネガティブ・ケイパビリティ
+genre: 
+primary_domain: 社会・ノンフィクション
+tags: Kindle;社会/ノンフィクション"
+bk_5e4c767a64,世にも奇妙な君物語 (講談社文庫),Kindle,book_or_ebook,,小説・文学,Kindle;小説,low,ja,structured_search,45,2025-11-06T00:23:00Z,"title: 世にも奇妙な君物語 (講談社文庫)
+genre: 
+primary_domain: 小説・文学
+tags: Kindle;小説"
+bk_aecfd2cb19,Battle Hymn of the Tiger Mother (English Edition),Kindle,book_or_ebook,,その他,洋書;Kindle,low,en_or_mixed,structured_search,80,2025-09-26T15:26:00Z,"title: Battle Hymn of the Tiger Mother (English Edition)
+genre: 
+primary_domain: その他
+tags: 洋書;Kindle"
+bk_731d3631aa,ブレイクスルーJavaScript フロントエンドエンジニアとして越えるべき5つの壁―オブジェクト指向からシングルページアプリケーションまで,Kindle,book_or_ebook,,IT・プログラミング,Kindle;IT;Web開発,low,ja,rag_or_structured,198,2022-08-10T10:49:00Z,"title: ブレイクスルーJavaScript フロントエンドエンジニアとして越えるべき5つの壁―オブジェクト指向からシングルページアプリケーションまで
+genre: 
+primary_domain: IT・プログラミング
+tags: Kindle;IT;Web開発"
+bk_02db046db4,体系的に学ぶ 安全なWebアプリケーションの作り方 第2版［固定版］　脆弱性が生まれる原理と対策の実践,Kindle,book_or_ebook,,セキュリティ,Kindle;セキュリティ,medium,ja,rag_or_structured,1600,2023-12-27T19:01:00Z,"title: 体系的に学ぶ 安全なWebアプリケーションの作り方 第2版［固定版］　脆弱性が生まれる原理と対策の実践
+genre: 
+primary_domain: セキュリティ
+tags: Kindle;セキュリティ"
+bk_7cba1cb332,Never Let Me Go (English Edition),Kindle,book_or_ebook,,小説・文学,洋書;Kindle;小説,low,en_or_mixed,structured_search,78,2021-02-21T07:37:00Z,"title: Never Let Me Go (English Edition)
+genre: 
+primary_domain: 小説・文学
+tags: 洋書;Kindle;小説"
+bk_2ae4e77a30,モデルベース要件定義テクニック,Kindle,book_or_ebook,,その他,Kindle,low,ja,structured_search,1170,2023-12-23T16:05:00Z,"title: モデルベース要件定義テクニック
+genre: 
+primary_domain: その他
+tags: Kindle"

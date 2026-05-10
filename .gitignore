@@ -1,0 +1,25 @@
+# 環境変数。DATABASE_URL など秘密情報が入るのでコミットしない
+.env
+.env.*
+!.env.example
+
+# 依存パッケージ。package.json / package-lock.json から復元できるのでコミットしない
+node_modules/
+
+# TypeScript のビルド成果物。src から再生成できるのでコミットしない
+dist/
+
+# ログ。実行環境ごとに変わる一時ファイルなのでコミットしない
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# macOS が自動生成するメタデータ。アプリ本体には不要
+.DS_Store
+
+# エディタやOSの一時ファイル。個人環境依存なのでコミットしない
+*.swp
+*.swo
+*~
