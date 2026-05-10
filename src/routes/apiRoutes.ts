@@ -190,8 +190,6 @@ apiRouter.post("/restaurants", async (req, res, next) => {
 
 function isDifferent<T extends object>(oldItem: T, newItem: T): boolean {
 
-	// REVIEW: ジェネリクスは `function name<T>(arg: T)` の形で宣言します。
-	// これで Book 同士、Restaurant 同士のように「同じ型の2つ」を比較できます。
 	for (const key in oldItem) {
 
 		const typedKey = key as keyof T;
@@ -202,8 +200,6 @@ function isDifferent<T extends object>(oldItem: T, newItem: T): boolean {
 		const oldValue = oldItem[typedKey];
 		const newValue = newItem[typedKey];
 
-		// REVIEW: genre のような配列は `!==` だと参照比較になるため、中身が同じでも別物扱いになります。
-		// ここでは配列同士だけ長さと要素を比較し、同じなら次のキーへ進めます。
 		if (Array.isArray(oldValue) || Array.isArray(newValue)) {
 			if (!Array.isArray(oldValue) || !Array.isArray(newValue)) {
 				return true;
@@ -220,8 +216,6 @@ function isDifferent<T extends object>(oldItem: T, newItem: T): boolean {
 			continue;
 		}
 
-		// REVIEW: title / author / price / id / isbn など、配列以外の値はここで通常比較します。
-		// これで genre 以外の変更も差分として検知できます。
 		if (oldValue !== newValue) {
 			return true;
 		}
