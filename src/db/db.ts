@@ -273,8 +273,6 @@ export async function deleteBookRecord(id: string): Promise<void> {
 		FROM
 			book_list
 		WHERE 
-			-- REVIEW: book_list.id は UUID 型です。
-			-- abc のようなUUIDではない文字列を渡すと、DELETE文の構文ではなく型変換でDBエラーになります。
 			id=$1
 		`,[
 			id,
